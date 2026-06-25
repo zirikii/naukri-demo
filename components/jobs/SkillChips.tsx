@@ -14,10 +14,7 @@ export function SkillChips({ skills, max = 5, className }: SkillChipsProps) {
   return (
     <div className={cn("flex flex-wrap items-center gap-1.5", className)}>
       {visible.map((skill) => (
-        <span
-          key={skill}
-          className="rounded bg-muted px-2 py-0.5 text-xs text-muted-foreground"
-        >
+        <span key={skill} className="rounded bg-muted px-2 py-0.5 text-xs text-muted-foreground">
           {skill}
         </span>
       ))}

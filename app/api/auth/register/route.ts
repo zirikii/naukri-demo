@@ -33,7 +33,10 @@ export async function POST(request: Request) {
   const users = await getUsers();
 
   if (users.some((u) => u.email.toLowerCase() === email.toLowerCase())) {
-    return NextResponse.json({ error: "An account with this email already exists" }, { status: 409 });
+    return NextResponse.json(
+      { error: "An account with this email already exists" },
+      { status: 409 },
+    );
   }
 
   const newUser: UserAccount = {

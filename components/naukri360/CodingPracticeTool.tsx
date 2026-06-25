@@ -56,8 +56,8 @@ export function CodingPracticeTool({
         <DialogHeader>
           <DialogTitle>Coding Practice — Two Sum</DialogTitle>
           <DialogDescription>
-            Given an array of integers and a target, return indices of the two numbers that add
-            up to the target. (Simulated runner — demo only.)
+            Given an array of integers and a target, return indices of the two numbers that add up
+            to the target. (Simulated runner — demo only.)
           </DialogDescription>
         </DialogHeader>
 

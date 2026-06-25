@@ -21,7 +21,8 @@ describe("GET /api/jobs", () => {
     const data = await res.json();
     expect(data.total).toBeGreaterThan(0);
     for (const job of data.jobs) {
-      const haystack = `${job.title} ${job.role} ${job.skills.join(" ")} ${job.company.name}`.toLowerCase();
+      const haystack =
+        `${job.title} ${job.role} ${job.skills.join(" ")} ${job.company.name}`.toLowerCase();
       expect(haystack).toContain("react");
     }
   });

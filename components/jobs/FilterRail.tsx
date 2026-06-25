@@ -58,7 +58,10 @@ function CheckboxFacet({
 
 export function FilterRail({ filters, dispatch, className }: FilterRailProps) {
   return (
-    <aside className={cn("surface-card divide-y divide-border px-4", className)} aria-label="Job filters">
+    <aside
+      className={cn("surface-card divide-y divide-border px-4", className)}
+      aria-label="Job filters"
+    >
       <div className="flex items-center justify-between py-3">
         <h2 className="text-sm font-semibold uppercase tracking-wide text-muted-foreground">
           All Filters
@@ -74,11 +77,21 @@ export function FilterRail({ filters, dispatch, className }: FilterRailProps) {
       </div>
 
       <FilterFacet id="department" title="Department">
-        <CheckboxFacet facet="department" options={DEPARTMENTS} filters={filters} dispatch={dispatch} />
+        <CheckboxFacet
+          facet="department"
+          options={DEPARTMENTS}
+          filters={filters}
+          dispatch={dispatch}
+        />
       </FilterFacet>
 
       <FilterFacet id="workMode" title="Work mode">
-        <CheckboxFacet facet="workMode" options={WORK_MODES} filters={filters} dispatch={dispatch} />
+        <CheckboxFacet
+          facet="workMode"
+          options={WORK_MODES}
+          filters={filters}
+          dispatch={dispatch}
+        />
       </FilterFacet>
 
       <FilterFacet id="experience" title="Experience">
@@ -94,7 +107,10 @@ export function FilterRail({ filters, dispatch, className }: FilterRailProps) {
                     dispatch({ type: "SET_EXPERIENCE", value: checked ? opt.value : null })
                   }
                 />
-                <Label htmlFor={id} className="cursor-pointer text-sm font-normal text-foreground/90">
+                <Label
+                  htmlFor={id}
+                  className="cursor-pointer text-sm font-normal text-foreground/90"
+                >
                   {opt.label}
                 </Label>
               </div>
@@ -116,7 +132,10 @@ export function FilterRail({ filters, dispatch, className }: FilterRailProps) {
                     dispatch({ type: "SET_SALARY", value: checked ? range.min : null })
                   }
                 />
-                <Label htmlFor={id} className="cursor-pointer text-sm font-normal text-foreground/90">
+                <Label
+                  htmlFor={id}
+                  className="cursor-pointer text-sm font-normal text-foreground/90"
+                >
                   {range.label}
                 </Label>
               </div>
@@ -138,7 +157,10 @@ export function FilterRail({ filters, dispatch, className }: FilterRailProps) {
                     dispatch({ type: "SET_LOCATION", value: checked ? city : "" })
                   }
                 />
-                <Label htmlFor={id} className="cursor-pointer text-sm font-normal text-foreground/90">
+                <Label
+                  htmlFor={id}
+                  className="cursor-pointer text-sm font-normal text-foreground/90"
+                >
                   {city}
                 </Label>
               </div>
@@ -148,7 +170,12 @@ export function FilterRail({ filters, dispatch, className }: FilterRailProps) {
       </FilterFacet>
 
       <FilterFacet id="industry" title="Industry" defaultOpen={false}>
-        <CheckboxFacet facet="industry" options={INDUSTRIES} filters={filters} dispatch={dispatch} />
+        <CheckboxFacet
+          facet="industry"
+          options={INDUSTRIES}
+          filters={filters}
+          dispatch={dispatch}
+        />
       </FilterFacet>
 
       <FilterFacet id="companyType" title="Company type" defaultOpen={false}>
@@ -182,7 +209,10 @@ export function FilterRail({ filters, dispatch, className }: FilterRailProps) {
                     dispatch({ type: "SET_POSTED", value: checked ? win.value : null })
                   }
                 />
-                <Label htmlFor={id} className="cursor-pointer text-sm font-normal text-foreground/90">
+                <Label
+                  htmlFor={id}
+                  className="cursor-pointer text-sm font-normal text-foreground/90"
+                >
                   {win.label}
                 </Label>
               </div>

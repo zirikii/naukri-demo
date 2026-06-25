@@ -58,7 +58,10 @@ export function SettingsClient({ settings: initial }: { settings: Settings }) {
   }
 
   return (
-    <Tabs value={tab} onValueChange={(v) => router.replace(`/settings?tab=${v}`, { scroll: false })}>
+    <Tabs
+      value={tab}
+      onValueChange={(v) => router.replace(`/settings?tab=${v}`, { scroll: false })}
+    >
       <TabsList className="flex h-auto w-full flex-wrap justify-start gap-1">
         {TABS.map((t) => (
           <TabsTrigger key={t.value} value={t.value} className="gap-1.5">
@@ -99,7 +102,10 @@ function PreferencesTab({ settings, saving, onSave }: TabProps) {
     <Card className="space-y-4 p-5">
       <div className="space-y-1.5">
         <Label>Desired roles</Label>
-        <TagInput value={prefs.desiredRoles} onChange={(v) => setPrefs({ ...prefs, desiredRoles: v })} />
+        <TagInput
+          value={prefs.desiredRoles}
+          onChange={(v) => setPrefs({ ...prefs, desiredRoles: v })}
+        />
       </div>
       <div className="space-y-1.5">
         <Label>Preferred locations</Label>
@@ -110,7 +116,10 @@ function PreferencesTab({ settings, saving, onSave }: TabProps) {
       </div>
       <div className="space-y-1.5">
         <Label>Industries</Label>
-        <TagInput value={prefs.industries} onChange={(v) => setPrefs({ ...prefs, industries: v })} />
+        <TagInput
+          value={prefs.industries}
+          onChange={(v) => setPrefs({ ...prefs, industries: v })}
+        />
       </div>
       <div className="grid grid-cols-1 gap-4 sm:grid-cols-3">
         <div className="space-y-1.5">
@@ -156,7 +165,10 @@ function PreferencesTab({ settings, saving, onSave }: TabProps) {
           </Select>
         </div>
       </div>
-      <Button disabled={saving} onClick={() => onSave({ jobPreferences: prefs }, "Job preferences saved")}>
+      <Button
+        disabled={saving}
+        onClick={() => onSave({ jobPreferences: prefs }, "Job preferences saved")}
+      >
         Save preferences
       </Button>
     </Card>
@@ -224,7 +236,11 @@ function AlertsTab({
   return (
     <Card className="space-y-4 p-5">
       <div className="grid grid-cols-1 gap-3 sm:grid-cols-[1fr_180px_140px_auto]">
-        <Input placeholder="Keyword e.g. React Developer" value={keyword} onChange={(e) => setKeyword(e.target.value)} />
+        <Input
+          placeholder="Keyword e.g. React Developer"
+          value={keyword}
+          onChange={(e) => setKeyword(e.target.value)}
+        />
         <Select value={location} onValueChange={setLocation}>
           <SelectTrigger aria-label="Location">
             <SelectValue />

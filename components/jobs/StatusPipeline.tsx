@@ -9,9 +9,7 @@ const STAGES: ApplicationStatus[] = ["Applied", "Application viewed", "Shortlist
 export function StatusPipeline({ status }: { status: ApplicationStatus }) {
   if (status === "Not selected") {
     return (
-      <p className="text-xs font-medium text-destructive">
-        Not selected — better luck next time
-      </p>
+      <p className="text-xs font-medium text-destructive">Not selected — better luck next time</p>
     );
   }
 

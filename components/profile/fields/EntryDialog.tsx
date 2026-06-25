@@ -131,9 +131,7 @@ export function EntryDialog<T extends FieldValues>({
                     {...register(field.name)}
                   />
                 )}
-                {error ? (
-                  <p className="text-xs text-destructive">{String(error.message)}</p>
-                ) : null}
+                {error ? <p className="text-xs text-destructive">{String(error.message)}</p> : null}
               </div>
             );
           })}

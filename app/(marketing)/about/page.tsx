@@ -16,8 +16,9 @@ export default async function AboutPage() {
   return (
     <div className="mx-auto max-w-3xl px-4 py-12">
       <div className="rounded-lg border border-warning/40 bg-warning/10 p-4 text-sm text-warning-foreground">
-        This is an unofficial demo and is <strong>not affiliated with Naukri.com or Info Edge
-        (India) Ltd.</strong> All data is dummy and for demonstration only.
+        This is an unofficial demo and is{" "}
+        <strong>not affiliated with Naukri.com or Info Edge (India) Ltd.</strong> All data is dummy
+        and for demonstration only.
       </div>
 
       <article className="surface-card mt-6 p-6">

@@ -84,7 +84,13 @@ export function EmploymentSection({ employment }: { employment: EmploymentEntry[
                   ) : null}
                 </div>
                 <div className="flex shrink-0 gap-1">
-                  <Button variant="ghost" size="icon" className="h-8 w-8" onClick={() => openEdit(e)} aria-label="Edit">
+                  <Button
+                    variant="ghost"
+                    size="icon"
+                    className="h-8 w-8"
+                    onClick={() => openEdit(e)}
+                    aria-label="Edit"
+                  >
                     <Pencil className="h-3.5 w-3.5" />
                   </Button>
                   <Button

@@ -12,7 +12,13 @@ interface SectionCardProps {
 }
 
 /** Card shell for a profile section with an edit/add affordance in the header. */
-export function SectionCard({ title, onAction, actionLabel = "edit", children, id }: SectionCardProps) {
+export function SectionCard({
+  title,
+  onAction,
+  actionLabel = "edit",
+  children,
+  id,
+}: SectionCardProps) {
   return (
     <Card id={id} className="p-5">
       <div className="mb-3 flex items-center justify-between">

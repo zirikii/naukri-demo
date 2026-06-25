@@ -42,7 +42,10 @@ export function RecommendationsList({
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ jobId }),
     });
-    toast({ title: willSave ? "Job saved" : "Removed from saved", variant: willSave ? "success" : "default" });
+    toast({
+      title: willSave ? "Job saved" : "Removed from saved",
+      variant: willSave ? "success" : "default",
+    });
   }
 
   return (
@@ -62,10 +65,7 @@ export function RecommendationsList({
               Why recommended:
             </span>
             {reasons.slice(0, 3).map((reason) => (
-              <span
-                key={reason}
-                className="rounded-full bg-sky/10 px-2 py-0.5 text-xs text-sky"
-              >
+              <span key={reason} className="rounded-full bg-sky/10 px-2 py-0.5 text-xs text-sky">
                 {reason}
               </span>
             ))}

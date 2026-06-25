@@ -17,7 +17,11 @@ interface RecommendedJobsProps {
   initialAppliedIds: string[];
 }
 
-export function RecommendedJobs({ jobs, initialSavedIds, initialAppliedIds }: RecommendedJobsProps) {
+export function RecommendedJobs({
+  jobs,
+  initialSavedIds,
+  initialAppliedIds,
+}: RecommendedJobsProps) {
   const { toast } = useToast();
   const [savedIds, setSavedIds] = React.useState<Set<string>>(new Set(initialSavedIds));
   const [appliedIds, setAppliedIds] = React.useState<Set<string>>(new Set(initialAppliedIds));
@@ -36,7 +40,10 @@ export function RecommendedJobs({ jobs, initialSavedIds, initialAppliedIds }: Re
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ jobId }),
     });
-    toast({ title: willSave ? "Job saved" : "Removed from saved", variant: willSave ? "success" : "default" });
+    toast({
+      title: willSave ? "Job saved" : "Removed from saved",
+      variant: willSave ? "success" : "default",
+    });
   }
 
   return (

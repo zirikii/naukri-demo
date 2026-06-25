@@ -1,10 +1,7 @@
 import { Badge } from "@/components/ui/badge";
 import type { ApplicationStatus } from "@/lib/types";
 
-const STATUS_VARIANT: Record<
-  ApplicationStatus,
-  "default" | "sky" | "success" | "destructive"
-> = {
+const STATUS_VARIANT: Record<ApplicationStatus, "default" | "sky" | "success" | "destructive"> = {
   Applied: "default",
   "Application viewed": "sky",
   Shortlisted: "success",

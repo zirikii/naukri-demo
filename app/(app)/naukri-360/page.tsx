@@ -15,14 +15,14 @@ export default function Naukri360Page() {
         </span>
         <h1 className="mt-3 text-2xl font-bold sm:text-3xl">Your AI career companion</h1>
         <p className="mt-1 max-w-2xl text-sm text-primary-foreground/90">
-          Build a standout resume, prepare for interviews, and sharpen your coding skills — all
-          in one place. These tools are simulated for the demo.
+          Build a standout resume, prepare for interviews, and sharpen your coding skills — all in
+          one place. These tools are simulated for the demo.
         </p>
       </div>
 
       <div className="rounded-md border border-warning/40 bg-warning/10 p-3 text-sm text-warning-foreground">
-        Demo only — these tools simulate AI features with sample content and timers. No real AI
-        is used.
+        Demo only — these tools simulate AI features with sample content and timers. No real AI is
+        used.
       </div>
 
       <Naukri360Tools />

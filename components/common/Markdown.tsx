@@ -9,7 +9,7 @@ export function Markdown({ children, className }: { children: string; className?
     <div
       className={cn(
         "prose-naukri text-sm leading-relaxed text-foreground/90",
-        "[&_a]:font-medium [&_a]:text-primary [&_a:hover]:underline",
+        "[&_a:hover]:underline [&_a]:font-medium [&_a]:text-primary",
         "[&_h2]:mb-2 [&_h2]:mt-5 [&_h2]:text-base [&_h2]:font-semibold [&_h2]:text-foreground",
         "[&_h3]:mb-2 [&_h3]:mt-4 [&_h3]:text-sm [&_h3]:font-semibold [&_h3]:text-foreground",
         "[&_p]:mb-3",

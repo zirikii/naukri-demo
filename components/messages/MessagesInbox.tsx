@@ -52,9 +52,7 @@ export function MessagesInbox({ messages: initial }: { messages: MessageWithComp
       if (!res.ok) throw new Error("Failed to send");
       const data = (await res.json()) as { reply: Message["replies"][number] };
       setMessages((prev) =>
-        prev.map((m) =>
-          m.id === selected.id ? { ...m, replies: [...m.replies, data.reply] } : m,
-        ),
+        prev.map((m) => (m.id === selected.id ? { ...m, replies: [...m.replies, data.reply] } : m)),
       );
       setReply("");
       toast({ title: "Reply sent", variant: "success" });
@@ -78,10 +76,16 @@ export function MessagesInbox({ messages: initial }: { messages: MessageWithComp
   return (
     <div className="grid h-[calc(100vh-12rem)] grid-cols-1 overflow-hidden rounded-lg border border-border bg-card md:grid-cols-[320px_1fr]">
       {/* Conversation list */}
-      <div className={cn("scroll-area overflow-y-auto border-r border-border", selected && "hidden md:block")}>
+      <div
+        className={cn(
+          "scroll-area overflow-y-auto border-r border-border",
+          selected && "hidden md:block",
+        )}
+      >
         <div className="border-b border-border p-4">
           <h2 className="text-sm font-semibold text-foreground">
-            Inbox {unreadCount > 0 ? <span className="text-primary">({unreadCount} unread)</span> : null}
+            Inbox{" "}
+            {unreadCount > 0 ? <span className="text-primary">({unreadCount} unread)</span> : null}
           </h2>
         </div>
         <ul>
@@ -103,7 +107,9 @@ export function MessagesInbox({ messages: initial }: { messages: MessageWithComp
                     <p className="truncate text-sm font-semibold text-foreground">
                       {msg.recruiterName}
                     </p>
-                    {msg.unread ? <span className="h-2 w-2 shrink-0 rounded-full bg-primary" /> : null}
+                    {msg.unread ? (
+                      <span className="h-2 w-2 shrink-0 rounded-full bg-primary" />
+                    ) : null}
                   </div>
                   <p className="truncate text-xs text-muted-foreground">{msg.company?.name}</p>
                   <p className="mt-0.5 line-clamp-1 text-xs text-muted-foreground">{msg.snippet}</p>
@@ -121,7 +127,11 @@ export function MessagesInbox({ messages: initial }: { messages: MessageWithComp
           <div className="flex items-start justify-between gap-3 border-b border-border p-4">
             <div className="flex items-center gap-3">
               {selected.company ? (
-                <CompanyLogo name={selected.company.name} hue={selected.company.logoHue} size={44} />
+                <CompanyLogo
+                  name={selected.company.name}
+                  hue={selected.company.logoHue}
+                  size={44}
+                />
               ) : null}
               <div>
                 <p className="text-sm font-semibold text-foreground">{selected.recruiterName}</p>
@@ -194,7 +204,12 @@ export function MessagesInbox({ messages: initial }: { messages: MessageWithComp
                   }
                 }}
               />
-              <Button onClick={sendReply} disabled={sending || !reply.trim()} size="icon" className="h-10 w-10">
+              <Button
+                onClick={sendReply}
+                disabled={sending || !reply.trim()}
+                size="icon"
+                className="h-10 w-10"
+              >
                 <Send className="h-4 w-4" />
               </Button>
             </div>

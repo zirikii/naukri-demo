@@ -49,8 +49,7 @@ export function Footer() {
           <div className="col-span-2 lg:col-span-1">
             <Logo />
             <p className="mt-3 max-w-xs text-sm text-muted-foreground">
-              India&apos;s largest job portal — connecting job seekers with the right
-              opportunities.
+              India&apos;s largest job portal — connecting job seekers with the right opportunities.
             </p>
           </div>
           {COLUMNS.map((col) => (
@@ -73,7 +72,10 @@ export function Footer() {
         </div>
 
         <div className="mt-10 flex flex-col gap-2 border-t border-border pt-6 text-xs text-muted-foreground sm:flex-row sm:items-center sm:justify-between">
-          <p>© {new Date().getFullYear()} Naukri demo. Unofficial — not affiliated with Naukri.com / Info Edge.</p>
+          <p>
+            © {new Date().getFullYear()} Naukri demo. Unofficial — not affiliated with Naukri.com /
+            Info Edge.
+          </p>
           <p>Built for demonstration purposes only.</p>
         </div>
       </div>

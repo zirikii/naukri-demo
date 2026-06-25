@@ -56,9 +56,7 @@ export function LoginForm() {
   return (
     <div>
       <h1 className="text-2xl font-bold text-foreground">Login</h1>
-      <p className="mt-1 text-sm text-muted-foreground">
-        Continue to your Naukri account
-      </p>
+      <p className="mt-1 text-sm text-muted-foreground">Continue to your Naukri account</p>
 
       <div className="mt-4 flex items-start gap-2 rounded-md bg-secondary p-3 text-sm text-secondary-foreground">
         <Info className="mt-0.5 h-4 w-4 shrink-0" />
@@ -73,9 +71,7 @@ export function LoginForm() {
         <div className="space-y-1.5">
           <Label htmlFor="email">Email ID</Label>
           <Input id="email" type="email" autoComplete="email" {...register("email")} />
-          {errors.email ? (
-            <p className="text-xs text-destructive">{errors.email.message}</p>
-          ) : null}
+          {errors.email ? <p className="text-xs text-destructive">{errors.email.message}</p> : null}
         </div>
 
         <div className="space-y-1.5">

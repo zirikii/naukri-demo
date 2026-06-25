@@ -41,7 +41,11 @@ export default async function AppliedPage() {
             app.job ? (
               <Card key={app.id} className="p-4 sm:p-5">
                 <div className="flex items-start gap-3">
-                  <CompanyLogo name={app.job.company.name} hue={app.job.company.logoHue} size={48} />
+                  <CompanyLogo
+                    name={app.job.company.name}
+                    hue={app.job.company.logoHue}
+                    size={48}
+                  />
                   <div className="min-w-0 flex-1">
                     <div className="flex items-start justify-between gap-2">
                       <div>

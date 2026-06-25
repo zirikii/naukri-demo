@@ -75,7 +75,9 @@ export function InterviewPrepTool({
                   />
                 </button>
                 {isOpen ? (
-                  <p className="border-t border-border p-3 text-sm text-muted-foreground">{item.a}</p>
+                  <p className="border-t border-border p-3 text-sm text-muted-foreground">
+                    {item.a}
+                  </p>
                 ) : null}
               </li>
             );

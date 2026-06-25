@@ -49,7 +49,10 @@ export function ProfileMenu() {
           );
         })}
         <DropdownMenuSeparator />
-        <DropdownMenuItem onClick={() => void logout()} className="text-destructive focus:text-destructive">
+        <DropdownMenuItem
+          onClick={() => void logout()}
+          className="text-destructive focus:text-destructive"
+        >
           <LogOut />
           Logout
         </DropdownMenuItem>

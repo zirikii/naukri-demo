@@ -128,9 +128,7 @@ export function SearchResults({
           <div className="surface-card mb-4 flex flex-col gap-3 p-4">
             <div className="flex items-center justify-between gap-3">
               <div>
-                <h1 className="text-lg font-semibold text-foreground">
-                  {data.total} jobs found
-                </h1>
+                <h1 className="text-lg font-semibold text-foreground">{data.total} jobs found</h1>
                 {filters.keyword ? (
                   <p className="text-sm text-muted-foreground">
                     Showing results for &ldquo;{filters.keyword}&rdquo;

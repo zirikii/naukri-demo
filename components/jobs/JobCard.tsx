@@ -98,11 +98,7 @@ export function JobCard({
                   Applied
                 </Button>
               ) : (
-                <Button
-                  size="sm"
-                  onClick={() => onApply?.(job)}
-                  asChild={!onApply}
-                >
+                <Button size="sm" onClick={() => onApply?.(job)} asChild={!onApply}>
                   {onApply ? <span>Apply</span> : <Link href={`/jobs/${job.slug}`}>Apply</Link>}
                 </Button>
               )}

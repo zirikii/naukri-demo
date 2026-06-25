@@ -11,14 +11,39 @@ import {
 } from "lucide-react";
 
 const CATEGORIES: { label: string; href: string; icon: typeof Code2; count: string }[] = [
-  { label: "Engineering - Software", href: "/jobs?department=Engineering+-+Software", icon: Code2, count: "12.4K+ jobs" },
-  { label: "Data Science & Analytics", href: "/jobs?department=Data+Science+%26+Analytics", icon: BarChart3, count: "3.1K+ jobs" },
-  { label: "Sales & BD", href: "/jobs?department=Sales+%26+BD", icon: LineChart, count: "8.7K+ jobs" },
+  {
+    label: "Engineering - Software",
+    href: "/jobs?department=Engineering+-+Software",
+    icon: Code2,
+    count: "12.4K+ jobs",
+  },
+  {
+    label: "Data Science & Analytics",
+    href: "/jobs?department=Data+Science+%26+Analytics",
+    icon: BarChart3,
+    count: "3.1K+ jobs",
+  },
+  {
+    label: "Sales & BD",
+    href: "/jobs?department=Sales+%26+BD",
+    icon: LineChart,
+    count: "8.7K+ jobs",
+  },
   { label: "Marketing", href: "/jobs?department=Marketing", icon: Megaphone, count: "4.2K+ jobs" },
   { label: "Finance", href: "/jobs?department=Finance", icon: Wallet, count: "5.6K+ jobs" },
-  { label: "Human Resources", href: "/jobs?department=Human+Resources", icon: HeartHandshake, count: "2.3K+ jobs" },
+  {
+    label: "Human Resources",
+    href: "/jobs?department=Human+Resources",
+    icon: HeartHandshake,
+    count: "2.3K+ jobs",
+  },
   { label: "Design", href: "/jobs?department=Design", icon: PenTool, count: "1.8K+ jobs" },
-  { label: "Customer Success", href: "/jobs?department=Customer+Success", icon: Briefcase, count: "2.9K+ jobs" },
+  {
+    label: "Customer Success",
+    href: "/jobs?department=Customer+Success",
+    icon: Briefcase,
+    count: "2.9K+ jobs",
+  },
 ];
 
 export function CategoryGrid() {

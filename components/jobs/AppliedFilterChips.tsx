@@ -23,10 +23,16 @@ export function AppliedFilterChips({ filters, dispatch }: AppliedFilterChipsProp
   const chips: { label: string; onRemove: () => void }[] = [];
 
   if (filters.keyword) {
-    chips.push({ label: `"${filters.keyword}"`, onRemove: () => dispatch({ type: "SET_KEYWORD", value: "" }) });
+    chips.push({
+      label: `"${filters.keyword}"`,
+      onRemove: () => dispatch({ type: "SET_KEYWORD", value: "" }),
+    });
   }
   if (filters.location) {
-    chips.push({ label: filters.location, onRemove: () => dispatch({ type: "SET_LOCATION", value: "" }) });
+    chips.push({
+      label: filters.location,
+      onRemove: () => dispatch({ type: "SET_LOCATION", value: "" }),
+    });
   }
   if (filters.experience !== null) {
     const label =

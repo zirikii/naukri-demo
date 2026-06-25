@@ -97,7 +97,12 @@ export function SearchBar({
         </Select>
       </div>
 
-      <div className={cn("flex flex-1 items-center gap-2 border-border px-3", isHero ? "sm:border-l" : "border-l")}>
+      <div
+        className={cn(
+          "flex flex-1 items-center gap-2 border-border px-3",
+          isHero ? "sm:border-l" : "border-l",
+        )}
+      >
         <MapPin className="h-4 w-4 shrink-0 text-muted-foreground" />
         <input
           type="text"
@@ -109,10 +114,7 @@ export function SearchBar({
         />
       </div>
 
-      <Button
-        type="submit"
-        className={cn("rounded-full", isHero ? "px-10 sm:h-auto" : "px-6")}
-      >
+      <Button type="submit" className={cn("rounded-full", isHero ? "px-10 sm:h-auto" : "px-6")}>
         Search
       </Button>
     </form>

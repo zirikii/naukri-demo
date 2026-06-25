@@ -80,9 +80,7 @@ export function RegisterForm() {
   return (
     <div>
       <h1 className="text-2xl font-bold text-foreground">Create your profile</h1>
-      <p className="mt-1 text-sm text-muted-foreground">
-        Register free and start applying to jobs
-      </p>
+      <p className="mt-1 text-sm text-muted-foreground">Register free and start applying to jobs</p>
 
       <form onSubmit={handleSubmit(onSubmit)} className="mt-6 space-y-4" noValidate>
         <div className="space-y-1.5">
@@ -99,7 +97,12 @@ export function RegisterForm() {
 
         <div className="space-y-1.5">
           <Label htmlFor="password">Password</Label>
-          <Input id="password" type="password" placeholder="Create a password" {...register("password")} />
+          <Input
+            id="password"
+            type="password"
+            placeholder="Create a password"
+            {...register("password")}
+          />
           {errors.password ? (
             <p className="text-xs text-destructive">{errors.password.message}</p>
           ) : null}

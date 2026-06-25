@@ -83,7 +83,9 @@ export function CertificationsSection({
                   variant="ghost"
                   size="icon"
                   className="h-8 w-8 text-destructive"
-                  onClick={() => save({ certifications: certifications.filter((x) => x.id !== c.id) })}
+                  onClick={() =>
+                    save({ certifications: certifications.filter((x) => x.id !== c.id) })
+                  }
                   aria-label="Delete"
                 >
                   <Trash2 className="h-3.5 w-3.5" />

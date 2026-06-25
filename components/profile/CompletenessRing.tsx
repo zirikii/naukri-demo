@@ -21,8 +21,17 @@ export function CompletenessRing({
   const offset = circumference - (Math.min(100, Math.max(0, value)) / 100) * circumference;
 
   return (
-    <div className={cn("relative inline-flex shrink-0", className)} style={{ width: size, height: size }}>
-      <svg width={size} height={size} className="-rotate-90" role="img" aria-label={`${value}% ${label}`}>
+    <div
+      className={cn("relative inline-flex shrink-0", className)}
+      style={{ width: size, height: size }}
+    >
+      <svg
+        width={size}
+        height={size}
+        className="-rotate-90"
+        role="img"
+        aria-label={`${value}% ${label}`}
+      >
         <circle
           cx={size / 2}
           cy={size / 2}

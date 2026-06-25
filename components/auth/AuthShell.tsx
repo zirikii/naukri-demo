@@ -33,12 +33,10 @@ export function AuthShell({ children }: { children: React.ReactNode }) {
           aria-hidden="true"
         />
         <div className="relative max-w-md text-primary-foreground">
-          <h2 className="text-3xl font-bold leading-tight">
-            Find a job made for you.
-          </h2>
+          <h2 className="text-3xl font-bold leading-tight">Find a job made for you.</h2>
           <p className="mt-3 text-primary-foreground/90">
-            Join millions of job seekers who found their next opportunity on India&apos;s
-            largest job portal.
+            Join millions of job seekers who found their next opportunity on India&apos;s largest
+            job portal.
           </p>
           <ul className="mt-8 space-y-4">
             {HIGHLIGHTS.map((h) => {

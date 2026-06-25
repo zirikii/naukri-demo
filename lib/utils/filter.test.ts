@@ -1,12 +1,6 @@
 import { describe, expect, it } from "vitest";
 
-import {
-  activeFilterCount,
-  filterJobs,
-  filterReducer,
-  paginate,
-  sortJobs,
-} from "./filter";
+import { activeFilterCount, filterJobs, filterReducer, paginate, sortJobs } from "./filter";
 import { DEFAULT_FILTERS, type Company, type JobWithCompany } from "@/lib/types";
 
 const company = (id: string, overrides: Partial<Company> = {}): Company => ({
@@ -52,9 +46,42 @@ const job = (overrides: Partial<JobWithCompany>): JobWithCompany => ({
 });
 
 const jobs: JobWithCompany[] = [
-  job({ id: "a", title: "React Developer", skills: ["React"], department: "Engineering - Software", workMode: "Remote", locations: ["Bengaluru"], salaryMin: 10, salaryMax: 20, experienceMin: 2, experienceMax: 5 }),
-  job({ id: "b", title: "Data Analyst", skills: ["SQL"], department: "Data Science & Analytics", workMode: "Office", locations: ["Mumbai"], salaryMin: 5, salaryMax: 9, experienceMin: 1, experienceMax: 3 }),
-  job({ id: "c", title: "Java Engineer", skills: ["Java"], department: "Engineering - Software", workMode: "Hybrid", locations: ["Hyderabad"], salaryMin: 18, salaryMax: 30, experienceMin: 4, experienceMax: 8 }),
+  job({
+    id: "a",
+    title: "React Developer",
+    skills: ["React"],
+    department: "Engineering - Software",
+    workMode: "Remote",
+    locations: ["Bengaluru"],
+    salaryMin: 10,
+    salaryMax: 20,
+    experienceMin: 2,
+    experienceMax: 5,
+  }),
+  job({
+    id: "b",
+    title: "Data Analyst",
+    skills: ["SQL"],
+    department: "Data Science & Analytics",
+    workMode: "Office",
+    locations: ["Mumbai"],
+    salaryMin: 5,
+    salaryMax: 9,
+    experienceMin: 1,
+    experienceMax: 3,
+  }),
+  job({
+    id: "c",
+    title: "Java Engineer",
+    skills: ["Java"],
+    department: "Engineering - Software",
+    workMode: "Hybrid",
+    locations: ["Hyderabad"],
+    salaryMin: 18,
+    salaryMax: 30,
+    experienceMin: 4,
+    experienceMax: 8,
+  }),
 ];
 
 describe("filterReducer", () => {
@@ -104,10 +131,11 @@ describe("filterJobs", () => {
 
   it("filters by minimum salary (job's max salary must reach the floor)", () => {
     // a (max 20) and c (max 30) clear a 15 LPA floor; b (max 9) does not.
-    expect(filterJobs(jobs, { ...DEFAULT_FILTERS, salaryMin: 15 }).map((j) => j.id).sort()).toEqual([
-      "a",
-      "c",
-    ]);
+    expect(
+      filterJobs(jobs, { ...DEFAULT_FILTERS, salaryMin: 15 })
+        .map((j) => j.id)
+        .sort(),
+    ).toEqual(["a", "c"]);
   });
 
   it("filters by experience within range", () => {
@@ -115,12 +143,12 @@ describe("filterJobs", () => {
   });
 
   it("filters by work mode and location", () => {
-    expect(
-      filterJobs(jobs, { ...DEFAULT_FILTERS, workMode: ["Remote"] }).map((j) => j.id),
-    ).toEqual(["a"]);
-    expect(
-      filterJobs(jobs, { ...DEFAULT_FILTERS, location: "mumbai" }).map((j) => j.id),
-    ).toEqual(["b"]);
+    expect(filterJobs(jobs, { ...DEFAULT_FILTERS, workMode: ["Remote"] }).map((j) => j.id)).toEqual(
+      ["a"],
+    );
+    expect(filterJobs(jobs, { ...DEFAULT_FILTERS, location: "mumbai" }).map((j) => j.id)).toEqual([
+      "b",
+    ]);
   });
 
   it("returns all jobs with default filters", () => {

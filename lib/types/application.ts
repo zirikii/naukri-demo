@@ -1,8 +1,4 @@
-export type ApplicationStatus =
-  | "Applied"
-  | "Application viewed"
-  | "Shortlisted"
-  | "Not selected";
+export type ApplicationStatus = "Applied" | "Application viewed" | "Shortlisted" | "Not selected";
 
 export interface Application {
   id: string;

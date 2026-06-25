@@ -66,7 +66,10 @@ export function JobDetail({
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ jobId: job.id }),
     });
-    toast({ title: willSave ? "Job saved" : "Removed from saved", variant: willSave ? "success" : "default" });
+    toast({
+      title: willSave ? "Job saved" : "Removed from saved",
+      variant: willSave ? "success" : "default",
+    });
   }
 
   function openApply() {
@@ -203,7 +206,10 @@ export function JobDetail({
                 <div>
                   <p className="flex items-center gap-2 text-sm font-semibold text-foreground">
                     {job.company.name}
-                    <StarRating rating={job.company.rating} reviewsCount={job.company.reviewsCount} />
+                    <StarRating
+                      rating={job.company.rating}
+                      reviewsCount={job.company.reviewsCount}
+                    />
                   </p>
                   <p className="mt-2 text-sm text-foreground/80">{job.company.about}</p>
                 </div>

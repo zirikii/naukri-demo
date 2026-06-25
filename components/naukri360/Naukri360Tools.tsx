@@ -69,7 +69,11 @@ export function Naukri360Tools() {
               </div>
               <h3 className="mt-3 text-base font-semibold text-foreground">{tool.title}</h3>
               <p className="mt-1 flex-1 text-sm text-muted-foreground">{tool.body}</p>
-              <Button variant="outline" className="mt-4 self-start" onClick={() => setActive(tool.key)}>
+              <Button
+                variant="outline"
+                className="mt-4 self-start"
+                onClick={() => setActive(tool.key)}
+              >
                 {tool.cta}
                 <ArrowRight className="h-4 w-4" />
               </Button>
@@ -83,7 +87,9 @@ export function Naukri360Tools() {
               <Newspaper className="h-5 w-5" />
             </div>
             <div>
-              <h3 className="text-base font-semibold text-foreground">Career News &amp; Insights</h3>
+              <h3 className="text-base font-semibold text-foreground">
+                Career News &amp; Insights
+              </h3>
               <p className="text-sm text-muted-foreground">Stay ahead with the latest trends</p>
             </div>
           </div>
@@ -104,7 +110,10 @@ export function Naukri360Tools() {
       </div>
 
       <ResumeBuilderTool open={active === "resume"} onOpenChange={(o) => !o && setActive(null)} />
-      <InterviewPrepTool open={active === "interview"} onOpenChange={(o) => !o && setActive(null)} />
+      <InterviewPrepTool
+        open={active === "interview"}
+        onOpenChange={(o) => !o && setActive(null)}
+      />
       <CodingPracticeTool open={active === "coding"} onOpenChange={(o) => !o && setActive(null)} />
     </>
   );

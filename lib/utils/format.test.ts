@@ -1,12 +1,6 @@
 import { describe, expect, it } from "vitest";
 
-import {
-  formatCount,
-  formatExperience,
-  formatSalary,
-  initials,
-  postedAgo,
-} from "./format";
+import { formatCount, formatExperience, formatSalary, initials, postedAgo } from "./format";
 
 describe("formatSalary", () => {
   it("formats a ₹ LPA range", () => {

@@ -28,7 +28,11 @@ export function Naukri360Band({ title, body, cta }: Naukri360BandProps) {
           </span>
           <h2 className="mt-4 text-2xl font-bold sm:text-3xl">{title}</h2>
           <p className="mt-2 text-sm text-primary-foreground/90 sm:text-base">{body}</p>
-          <Button asChild variant="secondary" className="mt-6 bg-white text-primary hover:bg-white/90">
+          <Button
+            asChild
+            variant="secondary"
+            className="mt-6 bg-white text-primary hover:bg-white/90"
+          >
             <Link href="/naukri-360">
               {cta}
               <ArrowRight className="h-4 w-4" />
