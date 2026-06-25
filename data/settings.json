@@ -1,0 +1,52 @@
+{
+  "jobPreferences": {
+    "desiredRoles": [
+      "Full Stack Developer",
+      "Frontend Developer"
+    ],
+    "preferredLocations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Remote"
+    ],
+    "industries": [
+      "Software Product",
+      "Internet"
+    ],
+    "expectedSalary": 22,
+    "workMode": "Hybrid",
+    "availabilityToJoin": "1 month"
+  },
+  "account": {
+    "email": "aarav.sharma@example.com"
+  },
+  "alerts": [
+    {
+      "id": "alert-1",
+      "keyword": "React Developer",
+      "location": "Bengaluru",
+      "experience": "4 years",
+      "frequency": "Daily",
+      "createdAt": "2026-06-19T12:40:19.674Z"
+    },
+    {
+      "id": "alert-2",
+      "keyword": "Full Stack",
+      "location": "Remote",
+      "experience": "3-6 years",
+      "frequency": "Weekly",
+      "createdAt": "2026-06-13T12:40:19.674Z"
+    }
+  ],
+  "notifications": {
+    "recruiterMessages": true,
+    "jobRecommendations": true,
+    "applicationUpdates": true,
+    "promotions": false
+  },
+  "privacy": {
+    "profileVisibility": "Visible to all recruiters",
+    "showContactDetails": true,
+    "showSalaryDetails": false
+  }
+}

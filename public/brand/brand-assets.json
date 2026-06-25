@@ -1,0 +1,26 @@
+{
+  "_note": "Unofficial demo. Assets used for visual fidelity only; property of Naukri.com / Info Edge.",
+  "fetchedDate": "2026-06-25",
+  "assets": [
+    {
+      "filename": "logo-mark.svg",
+      "description": "Icon-only Naukri figure mark",
+      "source": "https://raw.githubusercontent.com/JabberLabs/awesome-dashboard-icons/master/icons/naukricom.svg"
+    },
+    {
+      "filename": "logo.svg",
+      "description": "Brand-tokenized 'naukri' wordmark (fallback — official wordmark CDN network-blocked)",
+      "source": "in-repo (brand tokens #1875E5)"
+    },
+    {
+      "filename": "logo-white.svg",
+      "description": "Reversed white 'naukri' wordmark for dark/blue backgrounds",
+      "source": "in-repo (brand tokens)"
+    },
+    {
+      "filename": "favicon.ico",
+      "description": "Browser tab icon derived from logo-mark.svg (or committed fallback)",
+      "source": "derived from logo-mark.svg"
+    }
+  ]
+}

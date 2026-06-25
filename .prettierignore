@@ -1,0 +1,6 @@
+.next
+node_modules
+public/brand
+data
+*.md
+package-lock.json

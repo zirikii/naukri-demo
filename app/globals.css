@@ -1,0 +1,100 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+ * Naukri design tokens.
+ * Brand: primary blue #1875E5, primary dark #0F5BB5, sky #0CADF3 / #56C3E1,
+ * text #243C42, grey #7A8484, border #E3E7EA, page bg #F7F8FA, card #FFFFFF.
+ * Values stored as HSL channels so Tailwind can apply opacity modifiers.
+ */
+@layer base {
+  :root {
+    --background: 220 20% 97%; /* #F7F8FA */
+    --foreground: 192 29% 20%; /* #243C42 */
+
+    --card: 0 0% 100%;
+    --card-foreground: 192 29% 20%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 192 29% 20%;
+
+    --primary: 213 81% 50%; /* #1875E5 */
+    --primary-dark: 213 85% 38%; /* #0F5BB5 */
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 210 40% 96%;
+    --secondary-foreground: 213 85% 38%;
+
+    --muted: 210 20% 96%;
+    --muted-foreground: 195 9% 42%; /* ~#7A8484 with contrast */
+
+    --accent: 198 91% 50%; /* #0CADF3 */
+    --accent-foreground: 0 0% 100%;
+
+    --sky: 198 91% 50%;
+    --sky-soft: 193 69% 61%; /* #56C3E1 */
+
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 0 0% 100%;
+
+    --success: 142 65% 38%;
+    --success-foreground: 0 0% 100%;
+
+    --warning: 38 92% 50%;
+    --warning-foreground: 30 70% 18%;
+
+    --border: 206 16% 90%; /* #E3E7EA */
+    --input: 206 16% 86%;
+    --ring: 213 81% 50%;
+
+    --radius: 0.5rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-feature-settings:
+      "rlig" 1,
+      "calt" 1;
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply tracking-tight;
+  }
+}
+
+@layer components {
+  /* Generic surface card used across dashboard / job lists. */
+  .surface-card {
+    @apply rounded-lg border border-border bg-card shadow-card;
+  }
+
+  /* Loading skeleton shimmer block. */
+  .skeleton {
+    @apply relative overflow-hidden rounded-md bg-muted;
+  }
+  .skeleton::after {
+    @apply absolute inset-0 -translate-x-full animate-shimmer bg-gradient-to-r from-transparent via-white/60 to-transparent;
+    content: "";
+  }
+}
+
+/* Thin, brand-tinted scrollbars for dense panels. */
+.scroll-area::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+.scroll-area::-webkit-scrollbar-thumb {
+  background: hsl(206 16% 80%);
+  border-radius: 9999px;
+}
+.scroll-area::-webkit-scrollbar-thumb:hover {
+  background: hsl(206 16% 70%);
+}

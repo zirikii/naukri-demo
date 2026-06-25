@@ -1,0 +1,38 @@
+[
+  {
+    "id": "app-001",
+    "jobId": "job-001",
+    "appliedAt": "2026-06-22T12:40:19.674Z",
+    "status": "Applied"
+  },
+  {
+    "id": "app-002",
+    "jobId": "job-002",
+    "appliedAt": "2026-06-19T12:40:19.674Z",
+    "status": "Application viewed"
+  },
+  {
+    "id": "app-003",
+    "jobId": "job-003",
+    "appliedAt": "2026-06-16T12:40:19.674Z",
+    "status": "Shortlisted"
+  },
+  {
+    "id": "app-004",
+    "jobId": "job-004",
+    "appliedAt": "2026-06-13T12:40:19.674Z",
+    "status": "Not selected"
+  },
+  {
+    "id": "app-005",
+    "jobId": "job-005",
+    "appliedAt": "2026-06-10T12:40:19.674Z",
+    "status": "Applied"
+  },
+  {
+    "id": "app-006",
+    "jobId": "job-006",
+    "appliedAt": "2026-06-07T12:40:19.674Z",
+    "status": "Application viewed"
+  }
+]
