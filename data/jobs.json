@@ -1,0 +1,1687 @@
+[
+  {
+    "id": "job-001",
+    "slug": "senior-software-engineer-backend-tech-mahindra-001",
+    "title": "Senior Software Engineer - Backend",
+    "companyId": "cmp-tech-mahindra",
+    "department": "Engineering - Software",
+    "role": "Backend Developer",
+    "experienceMin": 4,
+    "experienceMax": 8,
+    "salaryMin": 18,
+    "salaryMax": null,
+    "locations": [
+      "Noida",
+      "Pune"
+    ],
+    "workMode": "Office",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "SQL",
+      "AWS"
+    ],
+    "education": "B.Tech/B.E.",
+    "employmentType": "Full Time",
+    "industry": "IT Services & Consulting",
+    "companyType": "Indian MNC",
+    "openings": 5,
+    "applicants": 364,
+    "postedAt": "2026-06-06T06:40:19.674Z",
+    "summary": "Tech Mahindra is hiring a Backend Developer to work on high-impact engineering - software initiatives. Work with a talented team using Java, Spring Boot, Microservices in a office setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Senior Software Engineer - Backend** to join Tech Mahindra in Noida, Pune. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a office role suited for someone with 4-8 years of experience and hands-on expertise in Java, Spring Boot, Microservices, SQL, AWS.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- B.Tech/B.E. or equivalent practical experience.\n- Strong fundamentals and proven experience with Java, Spring Boot, Microservices.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of engineering - software features.",
+      "Apply Java and Spring Boot to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-002",
+    "slug": "frontend-engineer-react-myntra-002",
+    "title": "Frontend Engineer (React)",
+    "companyId": "cmp-myntra",
+    "department": "Engineering - Software",
+    "role": "Frontend Developer",
+    "experienceMin": 2,
+    "experienceMax": 5,
+    "salaryMin": 12,
+    "salaryMax": 24,
+    "locations": [
+      "Chennai",
+      "Delhi NCR"
+    ],
+    "workMode": "Remote",
+    "skills": [
+      "React",
+      "JavaScript",
+      "TypeScript",
+      "HTML",
+      "CSS"
+    ],
+    "education": "B.Tech/B.E.",
+    "employmentType": "Full Time",
+    "industry": "E-commerce",
+    "companyType": "Unicorn",
+    "openings": 10,
+    "applicants": 357,
+    "postedAt": "2026-06-23T02:40:19.674Z",
+    "summary": "Myntra is hiring a Frontend Developer to work on high-impact engineering - software initiatives. Work with a talented team using React, JavaScript, TypeScript in a remote setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Frontend Engineer (React)** to join Myntra in Chennai, Delhi NCR. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a remote role suited for someone with 2-5 years of experience and hands-on expertise in React, JavaScript, TypeScript, HTML, CSS.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- B.Tech/B.E. or equivalent practical experience.\n- Strong fundamentals and proven experience with React, JavaScript, TypeScript.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of engineering - software features.",
+      "Apply React and JavaScript to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-003",
+    "slug": "full-stack-developer-cognizant-003",
+    "title": "Full Stack Developer",
+    "companyId": "cmp-cognizant",
+    "department": "Engineering - Software",
+    "role": "Full Stack Developer",
+    "experienceMin": 3,
+    "experienceMax": 6,
+    "salaryMin": 14,
+    "salaryMax": 28,
+    "locations": [
+      "Gurugram"
+    ],
+    "workMode": "Office",
+    "skills": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "TypeScript",
+      "AWS"
+    ],
+    "education": "B.Tech/B.E.",
+    "employmentType": "Full Time",
+    "industry": "IT Services & Consulting",
+    "companyType": "MNC",
+    "openings": 2,
+    "applicants": 342,
+    "postedAt": "2026-06-03T11:40:19.674Z",
+    "summary": "Cognizant is hiring a Full Stack Developer to work on high-impact engineering - software initiatives. Work with a talented team using React, Node.js, MongoDB in a office setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Full Stack Developer** to join Cognizant in Gurugram. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a office role suited for someone with 3-6 years of experience and hands-on expertise in React, Node.js, MongoDB, TypeScript, AWS.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- B.Tech/B.E. or equivalent practical experience.\n- Strong fundamentals and proven experience with React, Node.js, MongoDB.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of engineering - software features.",
+      "Apply React and Node.js to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-004",
+    "slug": "devops-engineer-reliance-jio-004",
+    "title": "DevOps Engineer",
+    "companyId": "cmp-reliance-jio",
+    "department": "Engineering - Software",
+    "role": "DevOps Engineer",
+    "experienceMin": 3,
+    "experienceMax": 7,
+    "salaryMin": 16,
+    "salaryMax": 30,
+    "locations": [
+      "Delhi NCR",
+      "Pune"
+    ],
+    "workMode": "Remote",
+    "skills": [
+      "Kubernetes",
+      "Docker",
+      "AWS",
+      "Terraform",
+      "CI/CD"
+    ],
+    "education": "B.Tech/B.E.",
+    "employmentType": "Full Time",
+    "industry": "Telecom",
+    "companyType": "Indian MNC",
+    "openings": 18,
+    "applicants": 995,
+    "postedAt": "2026-06-09T06:40:19.674Z",
+    "summary": "Reliance Jio is hiring a DevOps Engineer to work on high-impact engineering - software initiatives. Work with a talented team using Kubernetes, Docker, AWS in a remote setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **DevOps Engineer** to join Reliance Jio in Delhi NCR, Pune. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a remote role suited for someone with 3-7 years of experience and hands-on expertise in Kubernetes, Docker, AWS, Terraform, CI/CD.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- B.Tech/B.E. or equivalent practical experience.\n- Strong fundamentals and proven experience with Kubernetes, Docker, AWS.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of engineering - software features.",
+      "Apply Kubernetes and Docker to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-005",
+    "slug": "software-engineer-fresher-flipkart-005",
+    "title": "Software Engineer - Fresher",
+    "companyId": "cmp-flipkart",
+    "department": "Engineering - Software",
+    "role": "Software Engineer",
+    "experienceMin": 0,
+    "experienceMax": 0,
+    "salaryMin": null,
+    "salaryMax": 7,
+    "locations": [
+      "Hyderabad",
+      "Noida"
+    ],
+    "workMode": "Remote",
+    "skills": [
+      "Java",
+      "Python",
+      "SQL",
+      "Data Structures"
+    ],
+    "education": "B.Tech/B.E.",
+    "employmentType": "Full Time",
+    "industry": "E-commerce",
+    "companyType": "Unicorn",
+    "openings": 1,
+    "applicants": 204,
+    "postedAt": "2026-06-02T09:40:19.674Z",
+    "summary": "Flipkart is hiring a Software Engineer to work on high-impact engineering - software initiatives. Work with a talented team using Java, Python, SQL in a remote setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Software Engineer - Fresher** to join Flipkart in Hyderabad, Noida. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a remote role suited for someone with a strong foundation and hands-on expertise in Java, Python, SQL, Data Structures.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- B.Tech/B.E. or equivalent practical experience.\n- Strong fundamentals and proven experience with Java, Python, SQL.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of engineering - software features.",
+      "Apply Java and Python to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-006",
+    "slug": "python-developer-phonepe-006",
+    "title": "Python Developer",
+    "companyId": "cmp-phonepe",
+    "department": "Engineering - Software",
+    "role": "Python Developer",
+    "experienceMin": 2,
+    "experienceMax": 5,
+    "salaryMin": 10,
+    "salaryMax": 20,
+    "locations": [
+      "Delhi NCR"
+    ],
+    "workMode": "Hybrid",
+    "skills": [
+      "Python",
+      "Django",
+      "SQL",
+      "REST APIs"
+    ],
+    "education": "B.Tech/B.E.",
+    "employmentType": "Full Time",
+    "industry": "FinTech",
+    "companyType": "Unicorn",
+    "openings": 13,
+    "applicants": 126,
+    "postedAt": "2026-06-05T05:40:19.674Z",
+    "summary": "PhonePe is hiring a Python Developer to work on high-impact engineering - software initiatives. Work with a talented team using Python, Django, SQL in a hybrid setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Python Developer** to join PhonePe in Delhi NCR. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a hybrid role suited for someone with 2-5 years of experience and hands-on expertise in Python, Django, SQL, REST APIs.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- B.Tech/B.E. or equivalent practical experience.\n- Strong fundamentals and proven experience with Python, Django, SQL.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of engineering - software features.",
+      "Apply Python and Django to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-007",
+    "slug": "engineering-manager-zomato-007",
+    "title": "Engineering Manager",
+    "companyId": "cmp-zomato",
+    "department": "Engineering - Software",
+    "role": "Engineering Manager",
+    "experienceMin": 8,
+    "experienceMax": 12,
+    "salaryMin": 40,
+    "salaryMax": 65,
+    "locations": [
+      "Noida"
+    ],
+    "workMode": "Office",
+    "skills": [
+      "Java",
+      "System Design",
+      "Leadership",
+      "AWS"
+    ],
+    "education": "B.Tech/B.E.",
+    "employmentType": "Full Time",
+    "industry": "Internet",
+    "companyType": "Unicorn",
+    "openings": 2,
+    "applicants": 51,
+    "postedAt": "2026-06-19T03:40:19.674Z",
+    "summary": "Zomato is hiring a Engineering Manager to work on high-impact engineering - software initiatives. Work with a talented team using Java, System Design, Leadership in a office setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Engineering Manager** to join Zomato in Noida. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a office role suited for someone with 8-12 years of experience and hands-on expertise in Java, System Design, Leadership, AWS.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- B.Tech/B.E. or equivalent practical experience.\n- Strong fundamentals and proven experience with Java, System Design, Leadership.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of engineering - software features.",
+      "Apply Java and System Design to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-008",
+    "slug": "data-scientist-wipro-008",
+    "title": "Data Scientist",
+    "companyId": "cmp-wipro",
+    "department": "Data Science & Analytics",
+    "role": "Data Scientist",
+    "experienceMin": 3,
+    "experienceMax": 6,
+    "salaryMin": 18,
+    "salaryMax": 34,
+    "locations": [
+      "Pune"
+    ],
+    "workMode": "Office",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "SQL",
+      "Data Analysis"
+    ],
+    "education": "B.Tech/B.E.",
+    "employmentType": "Full Time",
+    "industry": "IT Services & Consulting",
+    "companyType": "Indian MNC",
+    "openings": 9,
+    "applicants": 47,
+    "postedAt": "2026-06-14T08:40:19.674Z",
+    "summary": "Wipro is hiring a Data Scientist to work on high-impact data science & analytics initiatives. Work with a talented team using Python, Machine Learning, SQL in a office setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Data Scientist** to join Wipro in Pune. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a office role suited for someone with 3-6 years of experience and hands-on expertise in Python, Machine Learning, SQL, Data Analysis.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- B.Tech/B.E. or equivalent practical experience.\n- Strong fundamentals and proven experience with Python, Machine Learning, SQL.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of data science & analytics features.",
+      "Apply Python and Machine Learning to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-009",
+    "slug": "data-analyst-accenture-009",
+    "title": "Data Analyst",
+    "companyId": "cmp-accenture",
+    "department": "Data Science & Analytics",
+    "role": "Data Analyst",
+    "experienceMin": 1,
+    "experienceMax": 4,
+    "salaryMin": 7,
+    "salaryMax": 15,
+    "locations": [
+      "Gurugram"
+    ],
+    "workMode": "Remote",
+    "skills": [
+      "SQL",
+      "Python",
+      "Data Analysis",
+      "Excel",
+      "Power BI"
+    ],
+    "education": "Any Graduate",
+    "employmentType": "Full Time",
+    "industry": "IT Services & Consulting",
+    "companyType": "MNC",
+    "openings": 10,
+    "applicants": 521,
+    "postedAt": "2026-06-06T06:40:19.674Z",
+    "summary": "Accenture is hiring a Data Analyst to work on high-impact data science & analytics initiatives. Work with a talented team using SQL, Python, Data Analysis in a remote setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Data Analyst** to join Accenture in Gurugram. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a remote role suited for someone with 1-4 years of experience and hands-on expertise in SQL, Python, Data Analysis, Excel, Power BI.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- Any Graduate or equivalent practical experience.\n- Strong fundamentals and proven experience with SQL, Python, Data Analysis.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of data science & analytics features.",
+      "Apply SQL and Python to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-010",
+    "slug": "machine-learning-engineer-flipkart-010",
+    "title": "Machine Learning Engineer",
+    "companyId": "cmp-flipkart",
+    "department": "Data Science & Analytics",
+    "role": "ML Engineer",
+    "experienceMin": 3,
+    "experienceMax": 7,
+    "salaryMin": 20,
+    "salaryMax": 40,
+    "locations": [
+      "Delhi NCR"
+    ],
+    "workMode": "Hybrid",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "TensorFlow",
+      "AWS"
+    ],
+    "education": "B.Tech/B.E.",
+    "employmentType": "Full Time",
+    "industry": "E-commerce",
+    "companyType": "Unicorn",
+    "openings": 2,
+    "applicants": 1164,
+    "postedAt": "2026-06-17T01:40:19.674Z",
+    "summary": "Flipkart is hiring a ML Engineer to work on high-impact data science & analytics initiatives. Work with a talented team using Python, Machine Learning, TensorFlow in a hybrid setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Machine Learning Engineer** to join Flipkart in Delhi NCR. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a hybrid role suited for someone with 3-7 years of experience and hands-on expertise in Python, Machine Learning, TensorFlow, AWS.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- B.Tech/B.E. or equivalent practical experience.\n- Strong fundamentals and proven experience with Python, Machine Learning, TensorFlow.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of data science & analytics features.",
+      "Apply Python and Machine Learning to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-011",
+    "slug": "product-manager-tech-mahindra-011",
+    "title": "Product Manager",
+    "companyId": "cmp-tech-mahindra",
+    "department": "Engineering - Software",
+    "role": "Product Manager",
+    "experienceMin": 4,
+    "experienceMax": 8,
+    "salaryMin": 25,
+    "salaryMax": 45,
+    "locations": [
+      "Bengaluru",
+      "Mumbai"
+    ],
+    "workMode": "Office",
+    "skills": [
+      "Product Management",
+      "Analytics",
+      "Roadmapping",
+      "SQL"
+    ],
+    "education": "MBA/PGDM",
+    "employmentType": "Full Time",
+    "industry": "IT Services & Consulting",
+    "companyType": "Indian MNC",
+    "openings": 18,
+    "applicants": 424,
+    "postedAt": "2026-06-07T07:40:19.674Z",
+    "summary": "Tech Mahindra is hiring a Product Manager to work on high-impact engineering - software initiatives. Work with a talented team using Product Management, Analytics, Roadmapping in a office setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Product Manager** to join Tech Mahindra in Bengaluru, Mumbai. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a office role suited for someone with 4-8 years of experience and hands-on expertise in Product Management, Analytics, Roadmapping, SQL.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- MBA/PGDM or equivalent practical experience.\n- Strong fundamentals and proven experience with Product Management, Analytics, Roadmapping.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of engineering - software features.",
+      "Apply Product Management and Analytics to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-012",
+    "slug": "business-development-manager-wipro-012",
+    "title": "Business Development Manager",
+    "companyId": "cmp-wipro",
+    "department": "Sales & BD",
+    "role": "BD Manager",
+    "experienceMin": 3,
+    "experienceMax": 7,
+    "salaryMin": 9,
+    "salaryMax": null,
+    "locations": [
+      "Bengaluru"
+    ],
+    "workMode": "Office",
+    "skills": [
+      "Sales",
+      "Negotiation",
+      "B2B",
+      "CRM"
+    ],
+    "education": "MBA/PGDM",
+    "employmentType": "Full Time",
+    "industry": "IT Services & Consulting",
+    "companyType": "Indian MNC",
+    "openings": 2,
+    "applicants": 666,
+    "postedAt": "2026-06-16T04:40:19.674Z",
+    "summary": "Wipro is hiring a BD Manager to work on high-impact sales & bd initiatives. Work with a talented team using Sales, Negotiation, B2B in a office setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Business Development Manager** to join Wipro in Bengaluru. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a office role suited for someone with 3-7 years of experience and hands-on expertise in Sales, Negotiation, B2B, CRM.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- MBA/PGDM or equivalent practical experience.\n- Strong fundamentals and proven experience with Sales, Negotiation, B2B.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of sales & bd features.",
+      "Apply Sales and Negotiation to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-013",
+    "slug": "inside-sales-executive-hdfc-bank-013",
+    "title": "Inside Sales Executive",
+    "companyId": "cmp-hdfc-bank",
+    "department": "Sales & BD",
+    "role": "Sales Executive",
+    "experienceMin": 1,
+    "experienceMax": 3,
+    "salaryMin": 4,
+    "salaryMax": 8,
+    "locations": [
+      "Bengaluru",
+      "Noida"
+    ],
+    "workMode": "Office",
+    "skills": [
+      "Sales",
+      "Communication",
+      "Lead Generation"
+    ],
+    "education": "Any Graduate",
+    "employmentType": "Full Time",
+    "industry": "Banking & Financial Services",
+    "companyType": "Product",
+    "openings": 11,
+    "applicants": 298,
+    "postedAt": "2026-06-08T05:40:19.674Z",
+    "summary": "HDFC Bank is hiring a Sales Executive to work on high-impact sales & bd initiatives. Work with a talented team using Sales, Communication, Lead Generation in a office setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Inside Sales Executive** to join HDFC Bank in Bengaluru, Noida. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a office role suited for someone with 1-3 years of experience and hands-on expertise in Sales, Communication, Lead Generation.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- Any Graduate or equivalent practical experience.\n- Strong fundamentals and proven experience with Sales, Communication, Lead Generation.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of sales & bd features.",
+      "Apply Sales and Communication to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-014",
+    "slug": "key-account-manager-flipkart-014",
+    "title": "Key Account Manager",
+    "companyId": "cmp-flipkart",
+    "department": "Sales & BD",
+    "role": "Account Manager",
+    "experienceMin": 4,
+    "experienceMax": 8,
+    "salaryMin": 12,
+    "salaryMax": 22,
+    "locations": [
+      "Delhi NCR"
+    ],
+    "workMode": "Office",
+    "skills": [
+      "Account Management",
+      "Sales",
+      "Salesforce"
+    ],
+    "education": "MBA/PGDM",
+    "employmentType": "Full Time",
+    "industry": "E-commerce",
+    "companyType": "Unicorn",
+    "openings": 15,
+    "applicants": 1082,
+    "postedAt": "2026-06-08T10:40:19.674Z",
+    "summary": "Flipkart is hiring a Account Manager to work on high-impact sales & bd initiatives. Work with a talented team using Account Management, Sales, Salesforce in a office setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Key Account Manager** to join Flipkart in Delhi NCR. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a office role suited for someone with 4-8 years of experience and hands-on expertise in Account Management, Sales, Salesforce.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- MBA/PGDM or equivalent practical experience.\n- Strong fundamentals and proven experience with Account Management, Sales, Salesforce.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of sales & bd features.",
+      "Apply Account Management and Sales to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-015",
+    "slug": "financial-analyst-zomato-015",
+    "title": "Financial Analyst",
+    "companyId": "cmp-zomato",
+    "department": "Finance",
+    "role": "Financial Analyst",
+    "experienceMin": 2,
+    "experienceMax": 5,
+    "salaryMin": 8,
+    "salaryMax": 16,
+    "locations": [
+      "Pune"
+    ],
+    "workMode": "Office",
+    "skills": [
+      "Financial Modelling",
+      "Excel",
+      "SQL",
+      "Accounting"
+    ],
+    "education": "B.Com",
+    "employmentType": "Full Time",
+    "industry": "Internet",
+    "companyType": "Unicorn",
+    "openings": 4,
+    "applicants": 58,
+    "postedAt": "2026-06-08T10:40:19.674Z",
+    "summary": "Zomato is hiring a Financial Analyst to work on high-impact finance initiatives. Work with a talented team using Financial Modelling, Excel, SQL in a office setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Financial Analyst** to join Zomato in Pune. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a office role suited for someone with 2-5 years of experience and hands-on expertise in Financial Modelling, Excel, SQL, Accounting.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- B.Com or equivalent practical experience.\n- Strong fundamentals and proven experience with Financial Modelling, Excel, SQL.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of finance features.",
+      "Apply Financial Modelling and Excel to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-016",
+    "slug": "chartered-accountant-flipkart-016",
+    "title": "Chartered Accountant",
+    "companyId": "cmp-flipkart",
+    "department": "Finance",
+    "role": "Chartered Accountant",
+    "experienceMin": 3,
+    "experienceMax": 6,
+    "salaryMin": null,
+    "salaryMax": 24,
+    "locations": [
+      "Hyderabad"
+    ],
+    "workMode": "Remote",
+    "skills": [
+      "Accounting",
+      "Taxation",
+      "Audit",
+      "Compliance"
+    ],
+    "education": "Any Graduate",
+    "employmentType": "Full Time",
+    "industry": "E-commerce",
+    "companyType": "Unicorn",
+    "openings": 7,
+    "applicants": 73,
+    "postedAt": "2026-06-04T09:40:19.674Z",
+    "summary": "Flipkart is hiring a Chartered Accountant to work on high-impact finance initiatives. Work with a talented team using Accounting, Taxation, Audit in a remote setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Chartered Accountant** to join Flipkart in Hyderabad. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a remote role suited for someone with 3-6 years of experience and hands-on expertise in Accounting, Taxation, Audit, Compliance.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- Any Graduate or equivalent practical experience.\n- Strong fundamentals and proven experience with Accounting, Taxation, Audit.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of finance features.",
+      "Apply Accounting and Taxation to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-017",
+    "slug": "hr-business-partner-cognizant-017",
+    "title": "HR Business Partner",
+    "companyId": "cmp-cognizant",
+    "department": "Human Resources",
+    "role": "HR Business Partner",
+    "experienceMin": 4,
+    "experienceMax": 8,
+    "salaryMin": 10,
+    "salaryMax": 20,
+    "locations": [
+      "Gurugram"
+    ],
+    "workMode": "Remote",
+    "skills": [
+      "HR Operations",
+      "Talent Management",
+      "Employee Relations"
+    ],
+    "education": "MBA/PGDM",
+    "employmentType": "Full Time",
+    "industry": "IT Services & Consulting",
+    "companyType": "MNC",
+    "openings": 8,
+    "applicants": 679,
+    "postedAt": "2026-06-06T10:40:19.674Z",
+    "summary": "Cognizant is hiring a HR Business Partner to work on high-impact human resources initiatives. Work with a talented team using HR Operations, Talent Management, Employee Relations in a remote setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **HR Business Partner** to join Cognizant in Gurugram. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a remote role suited for someone with 4-8 years of experience and hands-on expertise in HR Operations, Talent Management, Employee Relations.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- MBA/PGDM or equivalent practical experience.\n- Strong fundamentals and proven experience with HR Operations, Talent Management, Employee Relations.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of human resources features.",
+      "Apply HR Operations and Talent Management to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-018",
+    "slug": "talent-acquisition-specialist-paytm-018",
+    "title": "Talent Acquisition Specialist",
+    "companyId": "cmp-paytm",
+    "department": "Human Resources",
+    "role": "Recruiter",
+    "experienceMin": 2,
+    "experienceMax": 5,
+    "salaryMin": 6,
+    "salaryMax": 12,
+    "locations": [
+      "Chennai",
+      "Pune"
+    ],
+    "workMode": "Hybrid",
+    "skills": [
+      "Recruitment",
+      "Sourcing",
+      "Communication"
+    ],
+    "education": "Any Graduate",
+    "employmentType": "Full Time",
+    "industry": "FinTech",
+    "companyType": "Unicorn",
+    "openings": 8,
+    "applicants": 85,
+    "postedAt": "2026-06-17T05:40:19.674Z",
+    "summary": "Paytm is hiring a Recruiter to work on high-impact human resources initiatives. Work with a talented team using Recruitment, Sourcing, Communication in a hybrid setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Talent Acquisition Specialist** to join Paytm in Chennai, Pune. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a hybrid role suited for someone with 2-5 years of experience and hands-on expertise in Recruitment, Sourcing, Communication.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- Any Graduate or equivalent practical experience.\n- Strong fundamentals and proven experience with Recruitment, Sourcing, Communication.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of human resources features.",
+      "Apply Recruitment and Sourcing to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-019",
+    "slug": "digital-marketing-manager-infosys-019",
+    "title": "Digital Marketing Manager",
+    "companyId": "cmp-infosys",
+    "department": "Marketing",
+    "role": "Marketing Manager",
+    "experienceMin": 3,
+    "experienceMax": 7,
+    "salaryMin": 10,
+    "salaryMax": null,
+    "locations": [
+      "Pune",
+      "Chennai"
+    ],
+    "workMode": "Office",
+    "skills": [
+      "Digital Marketing",
+      "SEO",
+      "Google Ads",
+      "Analytics"
+    ],
+    "education": "MBA/PGDM",
+    "employmentType": "Full Time",
+    "industry": "IT Services & Consulting",
+    "companyType": "Indian MNC",
+    "openings": 8,
+    "applicants": 500,
+    "postedAt": "2026-06-02T02:40:19.674Z",
+    "summary": "Infosys is hiring a Marketing Manager to work on high-impact marketing initiatives. Work with a talented team using Digital Marketing, SEO, Google Ads in a office setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Digital Marketing Manager** to join Infosys in Pune, Chennai. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a office role suited for someone with 3-7 years of experience and hands-on expertise in Digital Marketing, SEO, Google Ads, Analytics.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- MBA/PGDM or equivalent practical experience.\n- Strong fundamentals and proven experience with Digital Marketing, SEO, Google Ads.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of marketing features.",
+      "Apply Digital Marketing and SEO to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-020",
+    "slug": "performance-marketing-lead-tcs-020",
+    "title": "Performance Marketing Lead",
+    "companyId": "cmp-tcs",
+    "department": "Marketing",
+    "role": "Marketing Lead",
+    "experienceMin": 5,
+    "experienceMax": 9,
+    "salaryMin": 18,
+    "salaryMax": null,
+    "locations": [
+      "Chennai"
+    ],
+    "workMode": "Hybrid",
+    "skills": [
+      "Performance Marketing",
+      "Google Ads",
+      "Meta Ads",
+      "Analytics"
+    ],
+    "education": "MBA/PGDM",
+    "employmentType": "Full Time",
+    "industry": "IT Services & Consulting",
+    "companyType": "Indian MNC",
+    "openings": 17,
+    "applicants": 698,
+    "postedAt": "2026-06-02T04:40:19.674Z",
+    "summary": "TCS is hiring a Marketing Lead to work on high-impact marketing initiatives. Work with a talented team using Performance Marketing, Google Ads, Meta Ads in a hybrid setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Performance Marketing Lead** to join TCS in Chennai. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a hybrid role suited for someone with 5-9 years of experience and hands-on expertise in Performance Marketing, Google Ads, Meta Ads, Analytics.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- MBA/PGDM or equivalent practical experience.\n- Strong fundamentals and proven experience with Performance Marketing, Google Ads, Meta Ads.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of marketing features.",
+      "Apply Performance Marketing and Google Ads to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-021",
+    "slug": "content-marketing-specialist-zomato-021",
+    "title": "Content Marketing Specialist",
+    "companyId": "cmp-zomato",
+    "department": "Marketing",
+    "role": "Content Specialist",
+    "experienceMin": 1,
+    "experienceMax": 4,
+    "salaryMin": null,
+    "salaryMax": 11,
+    "locations": [
+      "Mumbai"
+    ],
+    "workMode": "Remote",
+    "skills": [
+      "Content Writing",
+      "SEO",
+      "Social Media"
+    ],
+    "education": "Any Graduate",
+    "employmentType": "Full Time",
+    "industry": "Internet",
+    "companyType": "Unicorn",
+    "openings": 14,
+    "applicants": 176,
+    "postedAt": "2026-06-20T04:40:19.674Z",
+    "summary": "Zomato is hiring a Content Specialist to work on high-impact marketing initiatives. Work with a talented team using Content Writing, SEO, Social Media in a remote setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Content Marketing Specialist** to join Zomato in Mumbai. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a remote role suited for someone with 1-4 years of experience and hands-on expertise in Content Writing, SEO, Social Media.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- Any Graduate or equivalent practical experience.\n- Strong fundamentals and proven experience with Content Writing, SEO, Social Media.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of marketing features.",
+      "Apply Content Writing and SEO to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-022",
+    "slug": "ux-ui-designer-wipro-022",
+    "title": "UX/UI Designer",
+    "companyId": "cmp-wipro",
+    "department": "Design",
+    "role": "Product Designer",
+    "experienceMin": 2,
+    "experienceMax": 5,
+    "salaryMin": 10,
+    "salaryMax": 22,
+    "locations": [
+      "Mumbai"
+    ],
+    "workMode": "Office",
+    "skills": [
+      "Figma",
+      "UI Design",
+      "UX Research",
+      "Prototyping"
+    ],
+    "education": "Any Graduate",
+    "employmentType": "Full Time",
+    "industry": "IT Services & Consulting",
+    "companyType": "Indian MNC",
+    "openings": 8,
+    "applicants": 771,
+    "postedAt": "2026-06-05T08:40:19.674Z",
+    "summary": "Wipro is hiring a Product Designer to work on high-impact design initiatives. Work with a talented team using Figma, UI Design, UX Research in a office setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **UX/UI Designer** to join Wipro in Mumbai. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a office role suited for someone with 2-5 years of experience and hands-on expertise in Figma, UI Design, UX Research, Prototyping.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- Any Graduate or equivalent practical experience.\n- Strong fundamentals and proven experience with Figma, UI Design, UX Research.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of design features.",
+      "Apply Figma and UI Design to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-023",
+    "slug": "customer-success-manager-cognizant-023",
+    "title": "Customer Success Manager",
+    "companyId": "cmp-cognizant",
+    "department": "Customer Success",
+    "role": "Customer Success Manager",
+    "experienceMin": 3,
+    "experienceMax": 6,
+    "salaryMin": 9,
+    "salaryMax": 18,
+    "locations": [
+      "Hyderabad",
+      "Bengaluru"
+    ],
+    "workMode": "Remote",
+    "skills": [
+      "Customer Success",
+      "SaaS",
+      "Communication",
+      "CRM"
+    ],
+    "education": "Any Graduate",
+    "employmentType": "Full Time",
+    "industry": "IT Services & Consulting",
+    "companyType": "MNC",
+    "openings": 15,
+    "applicants": 846,
+    "postedAt": "2026-06-24T08:40:19.674Z",
+    "summary": "Cognizant is hiring a Customer Success Manager to work on high-impact customer success initiatives. Work with a talented team using Customer Success, SaaS, Communication in a remote setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Customer Success Manager** to join Cognizant in Hyderabad, Bengaluru. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a remote role suited for someone with 3-6 years of experience and hands-on expertise in Customer Success, SaaS, Communication, CRM.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- Any Graduate or equivalent practical experience.\n- Strong fundamentals and proven experience with Customer Success, SaaS, Communication.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of customer success features.",
+      "Apply Customer Success and SaaS to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-024",
+    "slug": "qa-automation-engineer-paytm-024",
+    "title": "QA Automation Engineer",
+    "companyId": "cmp-paytm",
+    "department": "Engineering - Software",
+    "role": "QA Engineer",
+    "experienceMin": 2,
+    "experienceMax": 5,
+    "salaryMin": 8,
+    "salaryMax": 18,
+    "locations": [
+      "Delhi NCR"
+    ],
+    "workMode": "Hybrid",
+    "skills": [
+      "Selenium",
+      "Java",
+      "Automation Testing",
+      "API Testing"
+    ],
+    "education": "B.Tech/B.E.",
+    "employmentType": "Full Time",
+    "industry": "FinTech",
+    "companyType": "Unicorn",
+    "openings": 9,
+    "applicants": 1074,
+    "postedAt": "2026-06-05T11:40:19.674Z",
+    "summary": "Paytm is hiring a QA Engineer to work on high-impact engineering - software initiatives. Work with a talented team using Selenium, Java, Automation Testing in a hybrid setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **QA Automation Engineer** to join Paytm in Delhi NCR. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a hybrid role suited for someone with 2-5 years of experience and hands-on expertise in Selenium, Java, Automation Testing, API Testing.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- B.Tech/B.E. or equivalent practical experience.\n- Strong fundamentals and proven experience with Selenium, Java, Automation Testing.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of engineering - software features.",
+      "Apply Selenium and Java to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-025",
+    "slug": "android-developer-infosys-025",
+    "title": "Android Developer",
+    "companyId": "cmp-infosys",
+    "department": "Engineering - Software",
+    "role": "Android Developer",
+    "experienceMin": 2,
+    "experienceMax": 6,
+    "salaryMin": 12,
+    "salaryMax": 26,
+    "locations": [
+      "Bengaluru",
+      "Noida"
+    ],
+    "workMode": "Hybrid",
+    "skills": [
+      "Kotlin",
+      "Android",
+      "Java",
+      "REST APIs"
+    ],
+    "education": "B.Tech/B.E.",
+    "employmentType": "Full Time",
+    "industry": "IT Services & Consulting",
+    "companyType": "Indian MNC",
+    "openings": 20,
+    "applicants": 100,
+    "postedAt": "2026-06-05T09:40:19.674Z",
+    "summary": "Infosys is hiring a Android Developer to work on high-impact engineering - software initiatives. Work with a talented team using Kotlin, Android, Java in a hybrid setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Android Developer** to join Infosys in Bengaluru, Noida. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a hybrid role suited for someone with 2-6 years of experience and hands-on expertise in Kotlin, Android, Java, REST APIs.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- B.Tech/B.E. or equivalent practical experience.\n- Strong fundamentals and proven experience with Kotlin, Android, Java.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of engineering - software features.",
+      "Apply Kotlin and Android to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-026",
+    "slug": "ios-developer-infosys-026",
+    "title": "iOS Developer",
+    "companyId": "cmp-infosys",
+    "department": "Engineering - Software",
+    "role": "iOS Developer",
+    "experienceMin": 2,
+    "experienceMax": 6,
+    "salaryMin": 12,
+    "salaryMax": 26,
+    "locations": [
+      "Delhi NCR",
+      "Hyderabad"
+    ],
+    "workMode": "Remote",
+    "skills": [
+      "Swift",
+      "iOS",
+      "Xcode",
+      "REST APIs"
+    ],
+    "education": "B.Tech/B.E.",
+    "employmentType": "Full Time",
+    "industry": "IT Services & Consulting",
+    "companyType": "Indian MNC",
+    "openings": 9,
+    "applicants": 306,
+    "postedAt": "2026-06-08T10:40:19.674Z",
+    "summary": "Infosys is hiring a iOS Developer to work on high-impact engineering - software initiatives. Work with a talented team using Swift, iOS, Xcode in a remote setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **iOS Developer** to join Infosys in Delhi NCR, Hyderabad. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a remote role suited for someone with 2-6 years of experience and hands-on expertise in Swift, iOS, Xcode, REST APIs.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- B.Tech/B.E. or equivalent practical experience.\n- Strong fundamentals and proven experience with Swift, iOS, Xcode.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of engineering - software features.",
+      "Apply Swift and iOS to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-027",
+    "slug": "salesforce-developer-hdfc-bank-027",
+    "title": "Salesforce Developer",
+    "companyId": "cmp-hdfc-bank",
+    "department": "Engineering - Software",
+    "role": "Salesforce Developer",
+    "experienceMin": 3,
+    "experienceMax": 6,
+    "salaryMin": null,
+    "salaryMax": 22,
+    "locations": [
+      "Bengaluru"
+    ],
+    "workMode": "Hybrid",
+    "skills": [
+      "Salesforce",
+      "Apex",
+      "Lightning",
+      "SQL"
+    ],
+    "education": "B.Tech/B.E.",
+    "employmentType": "Full Time",
+    "industry": "Banking & Financial Services",
+    "companyType": "Product",
+    "openings": 18,
+    "applicants": 900,
+    "postedAt": "2026-06-05T03:40:19.674Z",
+    "summary": "HDFC Bank is hiring a Salesforce Developer to work on high-impact engineering - software initiatives. Work with a talented team using Salesforce, Apex, Lightning in a hybrid setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Salesforce Developer** to join HDFC Bank in Bengaluru. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a hybrid role suited for someone with 3-6 years of experience and hands-on expertise in Salesforce, Apex, Lightning, SQL.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- B.Tech/B.E. or equivalent practical experience.\n- Strong fundamentals and proven experience with Salesforce, Apex, Lightning.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of engineering - software features.",
+      "Apply Salesforce and Apex to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-028",
+    "slug": "cloud-architect-razorpay-028",
+    "title": "Cloud Architect",
+    "companyId": "cmp-razorpay",
+    "department": "Engineering - Software",
+    "role": "Cloud Architect",
+    "experienceMin": 8,
+    "experienceMax": 12,
+    "salaryMin": 35,
+    "salaryMax": 60,
+    "locations": [
+      "Bengaluru"
+    ],
+    "workMode": "Office",
+    "skills": [
+      "AWS",
+      "Azure",
+      "System Design",
+      "Kubernetes"
+    ],
+    "education": "B.Tech/B.E.",
+    "employmentType": "Full Time",
+    "industry": "FinTech",
+    "companyType": "Unicorn",
+    "openings": 9,
+    "applicants": 1153,
+    "postedAt": "2026-06-08T01:40:19.674Z",
+    "summary": "Razorpay is hiring a Cloud Architect to work on high-impact engineering - software initiatives. Work with a talented team using AWS, Azure, System Design in a office setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Cloud Architect** to join Razorpay in Bengaluru. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a office role suited for someone with 8-12 years of experience and hands-on expertise in AWS, Azure, System Design, Kubernetes.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- B.Tech/B.E. or equivalent practical experience.\n- Strong fundamentals and proven experience with AWS, Azure, System Design.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of engineering - software features.",
+      "Apply AWS and Azure to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-029",
+    "slug": "senior-software-engineer-backend-core-team-cognizant-029",
+    "title": "Senior Software Engineer - Backend - Core Team",
+    "companyId": "cmp-cognizant",
+    "department": "Engineering - Software",
+    "role": "Backend Developer",
+    "experienceMin": 4,
+    "experienceMax": 8,
+    "salaryMin": null,
+    "salaryMax": 32,
+    "locations": [
+      "Bengaluru",
+      "Chennai"
+    ],
+    "workMode": "Office",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "SQL",
+      "AWS"
+    ],
+    "education": "B.Tech/B.E.",
+    "employmentType": "Full Time",
+    "industry": "IT Services & Consulting",
+    "companyType": "MNC",
+    "openings": 6,
+    "applicants": 813,
+    "postedAt": "2026-06-24T11:40:19.674Z",
+    "summary": "Cognizant is hiring a Backend Developer to work on high-impact engineering - software initiatives. Work with a talented team using Java, Spring Boot, Microservices in a office setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Senior Software Engineer - Backend - Core Team** to join Cognizant in Bengaluru, Chennai. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a office role suited for someone with 4-8 years of experience and hands-on expertise in Java, Spring Boot, Microservices, SQL, AWS.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- B.Tech/B.E. or equivalent practical experience.\n- Strong fundamentals and proven experience with Java, Spring Boot, Microservices.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of engineering - software features.",
+      "Apply Java and Spring Boot to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-030",
+    "slug": "frontend-engineer-react-core-team-reliance-jio-030",
+    "title": "Frontend Engineer (React) - Core Team",
+    "companyId": "cmp-reliance-jio",
+    "department": "Engineering - Software",
+    "role": "Frontend Developer",
+    "experienceMin": 2,
+    "experienceMax": 5,
+    "salaryMin": 12,
+    "salaryMax": 24,
+    "locations": [
+      "Pune",
+      "Mumbai"
+    ],
+    "workMode": "Remote",
+    "skills": [
+      "React",
+      "JavaScript",
+      "TypeScript",
+      "HTML",
+      "CSS"
+    ],
+    "education": "B.Tech/B.E.",
+    "employmentType": "Full Time",
+    "industry": "Telecom",
+    "companyType": "Indian MNC",
+    "openings": 19,
+    "applicants": 1169,
+    "postedAt": "2026-06-08T05:40:19.674Z",
+    "summary": "Reliance Jio is hiring a Frontend Developer to work on high-impact engineering - software initiatives. Work with a talented team using React, JavaScript, TypeScript in a remote setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Frontend Engineer (React) - Core Team** to join Reliance Jio in Pune, Mumbai. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a remote role suited for someone with 2-5 years of experience and hands-on expertise in React, JavaScript, TypeScript, HTML, CSS.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- B.Tech/B.E. or equivalent practical experience.\n- Strong fundamentals and proven experience with React, JavaScript, TypeScript.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of engineering - software features.",
+      "Apply React and JavaScript to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-031",
+    "slug": "full-stack-developer-platform-team-wipro-031",
+    "title": "Full Stack Developer - Platform Team",
+    "companyId": "cmp-wipro",
+    "department": "Engineering - Software",
+    "role": "Full Stack Developer",
+    "experienceMin": 3,
+    "experienceMax": 6,
+    "salaryMin": null,
+    "salaryMax": 28,
+    "locations": [
+      "Mumbai",
+      "Noida"
+    ],
+    "workMode": "Remote",
+    "skills": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "TypeScript",
+      "AWS"
+    ],
+    "education": "B.Tech/B.E.",
+    "employmentType": "Full Time",
+    "industry": "IT Services & Consulting",
+    "companyType": "Indian MNC",
+    "openings": 11,
+    "applicants": 1139,
+    "postedAt": "2026-06-02T08:40:19.674Z",
+    "summary": "Wipro is hiring a Full Stack Developer to work on high-impact engineering - software initiatives. Work with a talented team using React, Node.js, MongoDB in a remote setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Full Stack Developer - Platform Team** to join Wipro in Mumbai, Noida. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a remote role suited for someone with 3-6 years of experience and hands-on expertise in React, Node.js, MongoDB, TypeScript, AWS.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- B.Tech/B.E. or equivalent practical experience.\n- Strong fundamentals and proven experience with React, Node.js, MongoDB.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of engineering - software features.",
+      "Apply React and Node.js to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-032",
+    "slug": "devops-engineer-platform-team-swiggy-032",
+    "title": "DevOps Engineer - Platform Team",
+    "companyId": "cmp-swiggy",
+    "department": "Engineering - Software",
+    "role": "DevOps Engineer",
+    "experienceMin": 3,
+    "experienceMax": 7,
+    "salaryMin": 16,
+    "salaryMax": 30,
+    "locations": [
+      "Delhi NCR"
+    ],
+    "workMode": "Hybrid",
+    "skills": [
+      "Kubernetes",
+      "Docker",
+      "AWS",
+      "Terraform",
+      "CI/CD"
+    ],
+    "education": "B.Tech/B.E.",
+    "employmentType": "Full Time",
+    "industry": "Internet",
+    "companyType": "Unicorn",
+    "openings": 16,
+    "applicants": 1104,
+    "postedAt": "2026-06-17T12:40:19.674Z",
+    "summary": "Swiggy is hiring a DevOps Engineer to work on high-impact engineering - software initiatives. Work with a talented team using Kubernetes, Docker, AWS in a hybrid setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **DevOps Engineer - Platform Team** to join Swiggy in Delhi NCR. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a hybrid role suited for someone with 3-7 years of experience and hands-on expertise in Kubernetes, Docker, AWS, Terraform, CI/CD.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- B.Tech/B.E. or equivalent practical experience.\n- Strong fundamentals and proven experience with Kubernetes, Docker, AWS.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of engineering - software features.",
+      "Apply Kubernetes and Docker to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-033",
+    "slug": "software-engineer-fresher-platform-team-flipkart-033",
+    "title": "Software Engineer - Fresher - Platform Team",
+    "companyId": "cmp-flipkart",
+    "department": "Engineering - Software",
+    "role": "Software Engineer",
+    "experienceMin": 0,
+    "experienceMax": 0,
+    "salaryMin": 4,
+    "salaryMax": 7,
+    "locations": [
+      "Delhi NCR"
+    ],
+    "workMode": "Remote",
+    "skills": [
+      "Java",
+      "Python",
+      "SQL",
+      "Data Structures"
+    ],
+    "education": "B.Tech/B.E.",
+    "employmentType": "Full Time",
+    "industry": "E-commerce",
+    "companyType": "Unicorn",
+    "openings": 8,
+    "applicants": 1058,
+    "postedAt": "2026-06-02T10:40:19.674Z",
+    "summary": "Flipkart is hiring a Software Engineer to work on high-impact engineering - software initiatives. Work with a talented team using Java, Python, SQL in a remote setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Software Engineer - Fresher - Platform Team** to join Flipkart in Delhi NCR. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a remote role suited for someone with a strong foundation and hands-on expertise in Java, Python, SQL, Data Structures.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- B.Tech/B.E. or equivalent practical experience.\n- Strong fundamentals and proven experience with Java, Python, SQL.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of engineering - software features.",
+      "Apply Java and Python to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-034",
+    "slug": "python-developer-growth-team-razorpay-034",
+    "title": "Python Developer - Growth Team",
+    "companyId": "cmp-razorpay",
+    "department": "Engineering - Software",
+    "role": "Python Developer",
+    "experienceMin": 2,
+    "experienceMax": 5,
+    "salaryMin": 10,
+    "salaryMax": 20,
+    "locations": [
+      "Pune"
+    ],
+    "workMode": "Office",
+    "skills": [
+      "Python",
+      "Django",
+      "SQL",
+      "REST APIs"
+    ],
+    "education": "B.Tech/B.E.",
+    "employmentType": "Full Time",
+    "industry": "FinTech",
+    "companyType": "Unicorn",
+    "openings": 1,
+    "applicants": 999,
+    "postedAt": "2026-06-19T04:40:19.674Z",
+    "summary": "Razorpay is hiring a Python Developer to work on high-impact engineering - software initiatives. Work with a talented team using Python, Django, SQL in a office setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Python Developer - Growth Team** to join Razorpay in Pune. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a office role suited for someone with 2-5 years of experience and hands-on expertise in Python, Django, SQL, REST APIs.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- B.Tech/B.E. or equivalent practical experience.\n- Strong fundamentals and proven experience with Python, Django, SQL.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of engineering - software features.",
+      "Apply Python and Django to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-035",
+    "slug": "engineering-manager-platform-team-infosys-035",
+    "title": "Engineering Manager - Platform Team",
+    "companyId": "cmp-infosys",
+    "department": "Engineering - Software",
+    "role": "Engineering Manager",
+    "experienceMin": 8,
+    "experienceMax": 12,
+    "salaryMin": 40,
+    "salaryMax": 65,
+    "locations": [
+      "Gurugram"
+    ],
+    "workMode": "Office",
+    "skills": [
+      "Java",
+      "System Design",
+      "Leadership",
+      "AWS"
+    ],
+    "education": "B.Tech/B.E.",
+    "employmentType": "Full Time",
+    "industry": "IT Services & Consulting",
+    "companyType": "Indian MNC",
+    "openings": 7,
+    "applicants": 451,
+    "postedAt": "2026-06-23T01:40:19.674Z",
+    "summary": "Infosys is hiring a Engineering Manager to work on high-impact engineering - software initiatives. Work with a talented team using Java, System Design, Leadership in a office setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Engineering Manager - Platform Team** to join Infosys in Gurugram. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a office role suited for someone with 8-12 years of experience and hands-on expertise in Java, System Design, Leadership, AWS.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- B.Tech/B.E. or equivalent practical experience.\n- Strong fundamentals and proven experience with Java, System Design, Leadership.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of engineering - software features.",
+      "Apply Java and System Design to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-036",
+    "slug": "data-scientist-platform-team-hdfc-bank-036",
+    "title": "Data Scientist - Platform Team",
+    "companyId": "cmp-hdfc-bank",
+    "department": "Data Science & Analytics",
+    "role": "Data Scientist",
+    "experienceMin": 3,
+    "experienceMax": 6,
+    "salaryMin": 18,
+    "salaryMax": 34,
+    "locations": [
+      "Noida"
+    ],
+    "workMode": "Office",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "SQL",
+      "Data Analysis"
+    ],
+    "education": "B.Tech/B.E.",
+    "employmentType": "Full Time",
+    "industry": "Banking & Financial Services",
+    "companyType": "Product",
+    "openings": 7,
+    "applicants": 775,
+    "postedAt": "2026-06-24T06:40:19.674Z",
+    "summary": "HDFC Bank is hiring a Data Scientist to work on high-impact data science & analytics initiatives. Work with a talented team using Python, Machine Learning, SQL in a office setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Data Scientist - Platform Team** to join HDFC Bank in Noida. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a office role suited for someone with 3-6 years of experience and hands-on expertise in Python, Machine Learning, SQL, Data Analysis.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- B.Tech/B.E. or equivalent practical experience.\n- Strong fundamentals and proven experience with Python, Machine Learning, SQL.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of data science & analytics features.",
+      "Apply Python and Machine Learning to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-037",
+    "slug": "data-analyst-growth-team-accenture-037",
+    "title": "Data Analyst - Growth Team",
+    "companyId": "cmp-accenture",
+    "department": "Data Science & Analytics",
+    "role": "Data Analyst",
+    "experienceMin": 1,
+    "experienceMax": 4,
+    "salaryMin": null,
+    "salaryMax": 15,
+    "locations": [
+      "Chennai",
+      "Noida"
+    ],
+    "workMode": "Office",
+    "skills": [
+      "SQL",
+      "Python",
+      "Data Analysis",
+      "Excel",
+      "Power BI"
+    ],
+    "education": "Any Graduate",
+    "employmentType": "Full Time",
+    "industry": "IT Services & Consulting",
+    "companyType": "MNC",
+    "openings": 7,
+    "applicants": 484,
+    "postedAt": "2026-06-12T02:40:19.674Z",
+    "summary": "Accenture is hiring a Data Analyst to work on high-impact data science & analytics initiatives. Work with a talented team using SQL, Python, Data Analysis in a office setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Data Analyst - Growth Team** to join Accenture in Chennai, Noida. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a office role suited for someone with 1-4 years of experience and hands-on expertise in SQL, Python, Data Analysis, Excel, Power BI.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- Any Graduate or equivalent practical experience.\n- Strong fundamentals and proven experience with SQL, Python, Data Analysis.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of data science & analytics features.",
+      "Apply SQL and Python to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-038",
+    "slug": "machine-learning-engineer-growth-team-infosys-038",
+    "title": "Machine Learning Engineer - Growth Team",
+    "companyId": "cmp-infosys",
+    "department": "Data Science & Analytics",
+    "role": "ML Engineer",
+    "experienceMin": 3,
+    "experienceMax": 7,
+    "salaryMin": 20,
+    "salaryMax": 40,
+    "locations": [
+      "Hyderabad",
+      "Noida"
+    ],
+    "workMode": "Office",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "TensorFlow",
+      "AWS"
+    ],
+    "education": "B.Tech/B.E.",
+    "employmentType": "Full Time",
+    "industry": "IT Services & Consulting",
+    "companyType": "Indian MNC",
+    "openings": 16,
+    "applicants": 364,
+    "postedAt": "2026-06-03T02:40:19.674Z",
+    "summary": "Infosys is hiring a ML Engineer to work on high-impact data science & analytics initiatives. Work with a talented team using Python, Machine Learning, TensorFlow in a office setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Machine Learning Engineer - Growth Team** to join Infosys in Hyderabad, Noida. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a office role suited for someone with 3-7 years of experience and hands-on expertise in Python, Machine Learning, TensorFlow, AWS.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- B.Tech/B.E. or equivalent practical experience.\n- Strong fundamentals and proven experience with Python, Machine Learning, TensorFlow.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of data science & analytics features.",
+      "Apply Python and Machine Learning to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-039",
+    "slug": "product-manager-core-team-phonepe-039",
+    "title": "Product Manager - Core Team",
+    "companyId": "cmp-phonepe",
+    "department": "Engineering - Software",
+    "role": "Product Manager",
+    "experienceMin": 4,
+    "experienceMax": 8,
+    "salaryMin": 25,
+    "salaryMax": 45,
+    "locations": [
+      "Hyderabad"
+    ],
+    "workMode": "Hybrid",
+    "skills": [
+      "Product Management",
+      "Analytics",
+      "Roadmapping",
+      "SQL"
+    ],
+    "education": "MBA/PGDM",
+    "employmentType": "Full Time",
+    "industry": "FinTech",
+    "companyType": "Unicorn",
+    "openings": 16,
+    "applicants": 1059,
+    "postedAt": "2026-06-25T05:40:19.674Z",
+    "summary": "PhonePe is hiring a Product Manager to work on high-impact engineering - software initiatives. Work with a talented team using Product Management, Analytics, Roadmapping in a hybrid setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Product Manager - Core Team** to join PhonePe in Hyderabad. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a hybrid role suited for someone with 4-8 years of experience and hands-on expertise in Product Management, Analytics, Roadmapping, SQL.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- MBA/PGDM or equivalent practical experience.\n- Strong fundamentals and proven experience with Product Management, Analytics, Roadmapping.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of engineering - software features.",
+      "Apply Product Management and Analytics to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-040",
+    "slug": "business-development-manager-enterprise-team-infosys-040",
+    "title": "Business Development Manager - Enterprise Team",
+    "companyId": "cmp-infosys",
+    "department": "Sales & BD",
+    "role": "BD Manager",
+    "experienceMin": 3,
+    "experienceMax": 7,
+    "salaryMin": 9,
+    "salaryMax": 18,
+    "locations": [
+      "Pune"
+    ],
+    "workMode": "Office",
+    "skills": [
+      "Sales",
+      "Negotiation",
+      "B2B",
+      "CRM"
+    ],
+    "education": "MBA/PGDM",
+    "employmentType": "Full Time",
+    "industry": "IT Services & Consulting",
+    "companyType": "Indian MNC",
+    "openings": 14,
+    "applicants": 132,
+    "postedAt": "2026-06-17T11:40:19.674Z",
+    "summary": "Infosys is hiring a BD Manager to work on high-impact sales & bd initiatives. Work with a talented team using Sales, Negotiation, B2B in a office setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Business Development Manager - Enterprise Team** to join Infosys in Pune. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a office role suited for someone with 3-7 years of experience and hands-on expertise in Sales, Negotiation, B2B, CRM.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- MBA/PGDM or equivalent practical experience.\n- Strong fundamentals and proven experience with Sales, Negotiation, B2B.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of sales & bd features.",
+      "Apply Sales and Negotiation to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-041",
+    "slug": "inside-sales-executive-platform-team-swiggy-041",
+    "title": "Inside Sales Executive - Platform Team",
+    "companyId": "cmp-swiggy",
+    "department": "Sales & BD",
+    "role": "Sales Executive",
+    "experienceMin": 1,
+    "experienceMax": 3,
+    "salaryMin": 4,
+    "salaryMax": 8,
+    "locations": [
+      "Noida"
+    ],
+    "workMode": "Office",
+    "skills": [
+      "Sales",
+      "Communication",
+      "Lead Generation"
+    ],
+    "education": "Any Graduate",
+    "employmentType": "Full Time",
+    "industry": "Internet",
+    "companyType": "Unicorn",
+    "openings": 3,
+    "applicants": 739,
+    "postedAt": "2026-05-30T04:40:19.674Z",
+    "summary": "Swiggy is hiring a Sales Executive to work on high-impact sales & bd initiatives. Work with a talented team using Sales, Communication, Lead Generation in a office setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Inside Sales Executive - Platform Team** to join Swiggy in Noida. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a office role suited for someone with 1-3 years of experience and hands-on expertise in Sales, Communication, Lead Generation.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- Any Graduate or equivalent practical experience.\n- Strong fundamentals and proven experience with Sales, Communication, Lead Generation.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of sales & bd features.",
+      "Apply Sales and Communication to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-042",
+    "slug": "key-account-manager-enterprise-team-freshworks-042",
+    "title": "Key Account Manager - Enterprise Team",
+    "companyId": "cmp-freshworks",
+    "department": "Sales & BD",
+    "role": "Account Manager",
+    "experienceMin": 4,
+    "experienceMax": 8,
+    "salaryMin": 12,
+    "salaryMax": 22,
+    "locations": [
+      "Hyderabad",
+      "Bengaluru"
+    ],
+    "workMode": "Office",
+    "skills": [
+      "Account Management",
+      "Sales",
+      "Salesforce"
+    ],
+    "education": "MBA/PGDM",
+    "employmentType": "Full Time",
+    "industry": "Software Product",
+    "companyType": "Product",
+    "openings": 9,
+    "applicants": 626,
+    "postedAt": "2026-06-03T09:40:19.674Z",
+    "summary": "Freshworks is hiring a Account Manager to work on high-impact sales & bd initiatives. Work with a talented team using Account Management, Sales, Salesforce in a office setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Key Account Manager - Enterprise Team** to join Freshworks in Hyderabad, Bengaluru. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a office role suited for someone with 4-8 years of experience and hands-on expertise in Account Management, Sales, Salesforce.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- MBA/PGDM or equivalent practical experience.\n- Strong fundamentals and proven experience with Account Management, Sales, Salesforce.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of sales & bd features.",
+      "Apply Account Management and Sales to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-043",
+    "slug": "financial-analyst-enterprise-team-wipro-043",
+    "title": "Financial Analyst - Enterprise Team",
+    "companyId": "cmp-wipro",
+    "department": "Finance",
+    "role": "Financial Analyst",
+    "experienceMin": 2,
+    "experienceMax": 5,
+    "salaryMin": 8,
+    "salaryMax": 16,
+    "locations": [
+      "Noida"
+    ],
+    "workMode": "Remote",
+    "skills": [
+      "Financial Modelling",
+      "Excel",
+      "SQL",
+      "Accounting"
+    ],
+    "education": "B.Com",
+    "employmentType": "Full Time",
+    "industry": "IT Services & Consulting",
+    "companyType": "Indian MNC",
+    "openings": 13,
+    "applicants": 537,
+    "postedAt": "2026-06-13T09:40:19.674Z",
+    "summary": "Wipro is hiring a Financial Analyst to work on high-impact finance initiatives. Work with a talented team using Financial Modelling, Excel, SQL in a remote setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Financial Analyst - Enterprise Team** to join Wipro in Noida. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a remote role suited for someone with 2-5 years of experience and hands-on expertise in Financial Modelling, Excel, SQL, Accounting.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- B.Com or equivalent practical experience.\n- Strong fundamentals and proven experience with Financial Modelling, Excel, SQL.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of finance features.",
+      "Apply Financial Modelling and Excel to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-044",
+    "slug": "chartered-accountant-platform-team-reliance-jio-044",
+    "title": "Chartered Accountant - Platform Team",
+    "companyId": "cmp-reliance-jio",
+    "department": "Finance",
+    "role": "Chartered Accountant",
+    "experienceMin": 3,
+    "experienceMax": 6,
+    "salaryMin": 12,
+    "salaryMax": 24,
+    "locations": [
+      "Delhi NCR",
+      "Mumbai"
+    ],
+    "workMode": "Hybrid",
+    "skills": [
+      "Accounting",
+      "Taxation",
+      "Audit",
+      "Compliance"
+    ],
+    "education": "Any Graduate",
+    "employmentType": "Full Time",
+    "industry": "Telecom",
+    "companyType": "Indian MNC",
+    "openings": 8,
+    "applicants": 378,
+    "postedAt": "2026-06-23T07:40:19.674Z",
+    "summary": "Reliance Jio is hiring a Chartered Accountant to work on high-impact finance initiatives. Work with a talented team using Accounting, Taxation, Audit in a hybrid setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **Chartered Accountant - Platform Team** to join Reliance Jio in Delhi NCR, Mumbai. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a hybrid role suited for someone with 3-6 years of experience and hands-on expertise in Accounting, Taxation, Audit, Compliance.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- Any Graduate or equivalent practical experience.\n- Strong fundamentals and proven experience with Accounting, Taxation, Audit.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of finance features.",
+      "Apply Accounting and Taxation to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  },
+  {
+    "id": "job-045",
+    "slug": "hr-business-partner-enterprise-team-flipkart-045",
+    "title": "HR Business Partner - Enterprise Team",
+    "companyId": "cmp-flipkart",
+    "department": "Human Resources",
+    "role": "HR Business Partner",
+    "experienceMin": 4,
+    "experienceMax": 8,
+    "salaryMin": 10,
+    "salaryMax": 20,
+    "locations": [
+      "Mumbai"
+    ],
+    "workMode": "Office",
+    "skills": [
+      "HR Operations",
+      "Talent Management",
+      "Employee Relations"
+    ],
+    "education": "MBA/PGDM",
+    "employmentType": "Full Time",
+    "industry": "E-commerce",
+    "companyType": "Unicorn",
+    "openings": 9,
+    "applicants": 924,
+    "postedAt": "2026-06-25T10:40:19.674Z",
+    "summary": "Flipkart is hiring a HR Business Partner to work on high-impact human resources initiatives. Work with a talented team using HR Operations, Talent Management, Employee Relations in a office setup.",
+    "descriptionMd": "## About the role\n\nWe are looking for a **HR Business Partner - Enterprise Team** to join Flipkart in Mumbai. You will collaborate with cross-functional teams to build and scale products used by millions across India.\n\nThis is a office role suited for someone with 4-8 years of experience and hands-on expertise in HR Operations, Talent Management, Employee Relations.\n\n### What you'll do\n\n- Design, build, and maintain reliable, scalable solutions.\n- Partner with product and design to ship customer-focused features.\n- Write clean, well-tested, maintainable code and review peers' work.\n- Continuously improve performance, quality, and developer experience.\n\n### What we're looking for\n\n- MBA/PGDM or equivalent practical experience.\n- Strong fundamentals and proven experience with HR Operations, Talent Management, Employee Relations.\n- Excellent communication and a collaborative, ownership-driven mindset.",
+    "responsibilities": [
+      "Own end-to-end delivery of human resources features.",
+      "Apply HR Operations and Talent Management to solve real customer problems.",
+      "Collaborate across product, design, and engineering teams.",
+      "Mentor peers and uphold a high bar for quality."
+    ]
+  }
+]

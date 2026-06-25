@@ -1,0 +1,106 @@
+{
+  "fullName": "Aarav Sharma",
+  "email": "aarav.sharma@example.com",
+  "phone": "+91 98xxxxxx10",
+  "location": "Bengaluru",
+  "experienceYears": 4,
+  "currentRole": "Software Engineer",
+  "currentCompany": "Infosys",
+  "avatarHue": 213,
+  "headline": "Software Engineer with 4 years of experience building scalable web applications using React, Node.js, and AWS.",
+  "keySkills": [
+    "React",
+    "Node.js",
+    "TypeScript",
+    "JavaScript",
+    "AWS",
+    "SQL"
+  ],
+  "employment": [
+    {
+      "id": "emp-1",
+      "title": "Software Engineer",
+      "company": "Infosys",
+      "startDate": "2022-06",
+      "endDate": null,
+      "current": true,
+      "description": "Building microservices and React dashboards for a banking client. Improved API latency by 35% and led migration to TypeScript."
+    },
+    {
+      "id": "emp-2",
+      "title": "Associate Software Engineer",
+      "company": "Tech Mahindra",
+      "startDate": "2020-07",
+      "endDate": "2022-05",
+      "current": false,
+      "description": "Developed REST APIs and internal tooling. Worked across the SDLC in an Agile team."
+    }
+  ],
+  "education": [
+    {
+      "id": "edu-1",
+      "degree": "B.Tech, Computer Science",
+      "institution": "VIT Vellore",
+      "startYear": "2016",
+      "endYear": "2020",
+      "grade": "8.4 CGPA"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "itSkills": [
+    {
+      "id": "it-1",
+      "name": "React",
+      "version": "18",
+      "lastUsedYear": "2024",
+      "experienceMonths": 42
+    },
+    {
+      "id": "it-2",
+      "name": "Node.js",
+      "version": "20",
+      "lastUsedYear": "2024",
+      "experienceMonths": 40
+    },
+    {
+      "id": "it-3",
+      "name": "AWS",
+      "version": "-",
+      "lastUsedYear": "2024",
+      "experienceMonths": 30
+    }
+  ],
+  "personal": {
+    "gender": "Male",
+    "dateOfBirth": "1998-04-12",
+    "maritalStatus": "Single",
+    "phone": "+91 98xxxxxx10",
+    "address": "Koramangala, Bengaluru, Karnataka",
+    "languages": [
+      "English",
+      "Hindi",
+      "Kannada"
+    ]
+  },
+  "career": {
+    "preferredLocations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Remote"
+    ],
+    "industries": [
+      "Software Product",
+      "Internet"
+    ],
+    "roles": [
+      "Full Stack Developer",
+      "Frontend Developer",
+      "Backend Developer"
+    ],
+    "expectedSalary": 22,
+    "noticePeriod": "30 days",
+    "workMode": "Hybrid",
+    "employmentType": "Full Time"
+  }
+}

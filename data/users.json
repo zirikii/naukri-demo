@@ -1,0 +1,16 @@
+[
+  {
+    "id": "user-1",
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@example.com",
+    "experienceYears": 4,
+    "currentLocation": "Bengaluru",
+    "keySkills": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "AWS"
+    ],
+    "createdAt": "2025-12-07T12:40:19.674Z"
+  }
+]
