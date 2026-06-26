@@ -7,6 +7,7 @@ import { getSession } from "@/lib/auth/getSession";
 import type { SavedJob } from "@/lib/types";
 
 export const runtime = "nodejs";
+// eslint-disable-next-line @typescript-eslint/ban-ts-comment
 
 export async function GET() {
   const saved = await getSavedJobs();
