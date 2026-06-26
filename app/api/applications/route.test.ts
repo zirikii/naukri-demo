@@ -14,7 +14,7 @@ vi.mock("@/lib/data/queries", () => ({
 }));
 vi.mock("@/lib/data/store", () => ({ writeData: (k: string, d: unknown) => writeData(k, d) }));
 
-import { POST } from "./route";
+import { GET, POST } from "./route";
 
 function post(body: unknown) {
   return POST(
@@ -25,6 +25,21 @@ function post(body: unknown) {
     }),
   );
 }
+
+describe("GET /api/applications", () => {
+  it("returns applications from seed data", async () => {
+    getApplications.mockResolvedValue([
+      { id: "app-001", jobId: "job-001", appliedAt: "2026-06-22T12:40:19.674Z", status: "Applied" },
+    ]);
+
+    const res = await GET();
+    expect(res.status).toBe(200);
+
+    const data = await res.json();
+    expect(data.applications).toHaveLength(1);
+    expect(data.applications[0]?.jobId).toBe("job-001");
+  });
+});
 
 describe("POST /api/applications", () => {
   beforeEach(() => {
@@ -71,5 +86,15 @@ describe("POST /api/applications", () => {
     getSession.mockResolvedValue({ id: "u1", name: "Aarav", email: "a@b.com" });
     const res = await post({});
     expect(res.status).toBe(400);
+  });
+
+  it("returns 404 when the job does not exist", async () => {
+    getSession.mockResolvedValue({ id: "u1", name: "Aarav", email: "a@b.com" });
+    getApplications.mockResolvedValue([]);
+    getJobById.mockResolvedValue(null);
+
+    const res = await post({ jobId: "missing-job" });
+    expect(res.status).toBe(404);
+    expect(writeData).not.toHaveBeenCalled();
   });
 });
