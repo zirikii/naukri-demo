@@ -14,14 +14,12 @@ import {
   getProfile,
   getSavedJobs,
 } from "@/lib/data/queries";
-import { getSession } from "@/lib/auth/getSession";
 import { missingProfileSections, profileCompleteness, recommendJobs } from "@/lib/utils/score";
 
 export const metadata: Metadata = { title: "My Naukri" };
 
 export default async function DashboardPage() {
-  const [session, profile, allJobs, applications, saved, messages, companyMap] = await Promise.all([
-    getSession(),
+  const [profile, allJobs, applications, saved, messages, companyMap] = await Promise.all([
     getProfile(),
     getJobsWithCompany(),
     getApplications(),
@@ -42,12 +40,9 @@ export default async function DashboardPage() {
     .slice(0, 3)
     .map((m) => ({ ...m, company: companyMap.get(m.companyId) }));
 
-  const firstName = (session?.name ?? profile.fullName).split(" ")[0];
-
   return (
     <div className="space-y-6">
       <div>
-        <h1 className="text-2xl font-semibold text-foreground">Welcome back, {firstName}!</h1>
         <p className="text-sm text-muted-foreground">
           Here&apos;s what&apos;s happening with your job search today.
         </p>
